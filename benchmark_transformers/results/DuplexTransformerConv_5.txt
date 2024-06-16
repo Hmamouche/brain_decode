@@ -1,0 +1,750 @@
+The predicted Conversation : d'avant séries abandonnés continue
+The target Conversation : voilà donc là thierry il s'agit de l'image dont je te parlais tout à l'heure donc y a c'est la pomme que j'avais pas vu la pomme voilà la pomme
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ah clairement spider man et y a c'est ça avec la pomme qui est complètement posée à l'envers donc qui fait sens avec
+
+The predicted Conversation : abandonnés continue
+The target Conversation : à adhérer aux surfaces et aux plafonds pourquoi pas ah bien vu donc voilà non j'aurais pas j'avais pas pensé à ça en tout cas on a quand même un fruit un légume et un agrume
+
+The predicted Conversation : brillante abandonnés continue
+The target Conversation : si ça avait vraiment que pour manger ils auraient mis une orange plutôt qu'un citron peut-être le citron vert parce que c'est vert comme les tortues ninjas
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : c'est ça voilà c'est ce qui fait sens c'est pour faire le thème super-héros j'ai l'impression que c'est voilà c'est j'ai l'impression que c'est pour rendre amusant des fruits et légumes aux yeux des enfants ah ça serait un truc
+
+The predicted Conversation : spécialement brillante abandonnés
+The target Conversation : moi j'ai vu une framboise avec des bras et des jambes non juste des jambes
+
+The predicted Conversation : probablement brillante que abandonnés
+The target Conversation : c'est vrai que maintenant en la revoyant je trouve qu'elle est un peu déformée elle a une expression elle a l'air un peu fatigué
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : moi en la revoyant ça me fait penser à tu sais certains paquets de bonbons avec des avec des framboises dedans moi ça me fait penser à Oasis la boisson Oasis oui
+
+The predicted Conversation : abandonnés continue
+The target Conversation : oui exact j'ai pas le réflexe télévision mais oui celle où y a la cascade et et y a tous les petits fruits qui font la fête dans la cascade
+
+The predicted Conversation : abandonnés continue
+The target Conversation : oui et ça créé la boisson c'est ça
+
+The predicted Conversation : tordue disent abandonnés
+The target Conversation : salut moi je crois que c'est un citron
+
+The predicted Conversation : brillante probablement ou fraise abandonnés
+The target Conversation : c'est un citron vert en forme de Tortue Ninja quelqu'un a découpé un bandeau dans le citron c'est un demi citron
+
+The predicted Conversation : quiquinette point
+The target Conversation : il a un visage le citron oui c'est une tu ne crois pas oui c'est une Tortue Ninja il ressemble à un ninja oui je crois aussi
+
+The predicted Conversation : la spécialement abandonnés
+The target Conversation : il a l'air fort comme les autres oui c'est un super héros oui exactement
+
+The predicted Conversation : mauvais brillante pour probablement abandonnés
+The target Conversation : tu ne pense pas oui je pense pareil
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : re bonjour
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : oui donc là du coup c'est une aubergine ah oui qui ressemble un petit peu à Donald Duck je trouve bonjour
+
+The predicted Conversation : tordue disent abandonnés
+The target Conversation : elle ressemble un peu à un canard non
+
+The predicted Conversation : 
+The target Conversation : avec un bec je ne suis pas s- je ne suis pas sûre bon et en tout cas elle a une expression méchante
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : c'est peut-être pour Halloween oui c'est possible
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : c'est toujours notre framboise de tout à l'heure elle a elle a toujours son air triste
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : du coup ça inspire encore plus de compassion tu sais tu te dis putain la pauvre on dirait qu'elle a raté sa vie et en plus elle a pas de bras puis j'ai remarqué aussi que on dirait qu'elle a pas de bras
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : oui pardon @ exactement ok du coup elle est ah c'est la framboise abimée et handicapée qui se ferait maltraitée par les
+
+The predicted Conversation : tordue disent abandonnés
+The target Conversation : les autres je suis sure que ça doit être ça et du coup en fait ce serait l'idée que les super héros finalement c'est plutôt des super vilains
+
+The predicted Conversation : mal brillante peut-être bras abandonnés
+The target Conversation : ah ok du coup en fait le citron ce serait l'exception je pense celui qu'on aimait bien là tout à l'heure le robot il m'a dit que il m'a dit tiens peut-être que le citron c'est une pub pour les enfants tu sais pour
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : tout ce qu'on avait c'était avec la pardon j'étais en train de refaire le point sur ce qu'on avait dit et si ça marchait bien
+
+The predicted Conversation : l'endroit cerveau point prend côté
+The target Conversation : une framboise française ah la framboise putain pas réveillé mais enfin c'est pareil elle française -fin c'est @ ça donne moins envie d'un seul coup donc ça serait une poire française
+
+The predicted Conversation : probablement salut abandonnés même
+The target Conversation : logiquement oui c'est ces produits français qui entre guillemets se sont fait battre par les produits américains et que donc il faut que nous on les défende
+
+The predicted Conversation : brillante leur probablement un abandonnés
+The target Conversation : en achetant local en achetant en achetant des trucs locaux et ça peut peut-être aller aussi avec les super héros ils sont plein de pesticides et d'hormones et de des OGM
+
+The predicted Conversation : séries abandonnés
+The target Conversation : les locaux ils ont moins bonne mine mais au moins par contre ils ont quand même -fin la framboise elle est pas très mangeable ça reste franchement la framboise c'est un peu
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : ça c'est une fraise ah oui et
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : elle a envie qu'on la regarde qu'est ce que t'en penses
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : pourquoi c'est fraise triste ah oh moi je trouve pas qu'elle ait l'air triste elle est un peu abîmée oui ça c'est vrai
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui tu as raison voilà
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : tu as une idée du message non
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : t'as raison c'est Batman ah voilà je pense que c'est la même série que tout à l'heure
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : ben du coup ça a permis de confirmer mais je dirais que tu as changé c'est la même série que tout à l'heure oui
+
+The predicted Conversation : que il abandonnés continue
+The target Conversation : est ce que y a quelque chose qui a changé non je pense pas que quelque chose qu'il y ait changé ok on pourra peut-être essayer de faire attention pour la prochaine image si ça retombe
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : sur quelque chose de pareil
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : que là ce qu'on a vu avec Batman et et Spiderman et le le troisième là
+
+The predicted Conversation : probablement sont brillante abandonnés
+The target Conversation : alors c'est à nouveau la pomme rouge salut
+
+The predicted Conversation : abandonnés continue
+The target Conversation : qu'est-ce que tu penses de cette campagne elle est appétissante cette pomme tu peux répéter ah oui
+
+The predicted Conversation : tordue abandonnés
+The target Conversation : on est je sais pas quoi cette pomme peut-être qu'elle combat les mauvaises habitudes alimentaires oh je comprends rien du tout
+
+The predicted Conversation : séries exemple revoir abandonnés
+The target Conversation : et j'espère que tu m'as pas donné un indice pour comprendre le message de cette campagne parce que moi je pense que ça dit pour l'instant que les légumes sont méchants et les fruits sont gentils comme un fruit
+
+The predicted Conversation : quiquinette point
+The target Conversation : pas sûr qu'est-ce que ça veut dire alors ça veut dire elle a l'air un peu agressive
+
+The predicted Conversation : probablement fruits brillante abandonnés
+The target Conversation : salut Fuhrat ça m'avait l'air d'être une poire je suis d'accord c'est une poire jaune c-
+
+The predicted Conversation : séries abandonnés
+The target Conversation : c'est une poire pourrie elle est pourrie c'est le mot oui je crois aussi c'est beaucoup moins rigolo que la préc- précédente session ça me donne pas envie de manger des poires ça
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : je sais pas ce que t'en penses non je ne crois pas elle avait l'air toute triste la pauvre la poire semble triste oui bien sûr
+
+The predicted Conversation : spécialement l'endroit abandonnés
+The target Conversation : elle semble malheureuse c'est dommage elle semble fatiguée j'espère qu'on va pas j'espère qu'on va pas montrer ça à des enfants ça va pas leur donner
+
+The predicted Conversation : brillante abandonnés continue
+The target Conversation : ça va pas leur donner envie oui en effet qu'est ce que t'en penses toi peut-être que quequ'un l'a frappé
+
+The predicted Conversation : brillante probablement pourrait doit abandonnés
+The target Conversation : la fraise a l'air déterminée elle est pas calibrée mais elle est elle a l'air plus appétissante
+
+The predicted Conversation : abandonnés continue
+The target Conversation : que la framboise elle a les poings un peu serrés j'ai vu les trois oui et les yeux aussi un regard
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : je ou -fin j'ai moins fait attention que ça dans les yeux tu sais un côté un peu blasé avec le fait qu'il soit fermé par le haut
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : j'ai pas fait attention j'ai vu les trois effectivement j'ai regardé la consistance de la fraise elle était pas calibrée mais elle était dans un meilleur état elle donnait
+
+The predicted Conversation : 
+The target Conversation : quand même plus envie des trois c'est vrai que ça ressemble un peu plus à une fraise que la oui c'est ça la framboise qu'avant elle était pas sympa du coup tu penses que la fraise et la framboise sont dans le même set
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : 
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : du message où après avoir parlé avec avec l'autre personne je pense que tu as une idée du message
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : locaux peut-être qu'ils viennent de moins loin et qu'ils ont pas de traitements chimiques et du coup qui ont peut-être une apparence un peu plus brute
+
+The predicted Conversation : brillante abandonnés
+The target Conversation : et naturelle finalement mais voilà c'est pour faire une campagne pour inciter les gens à manger ces fruits qui qui d'apparence
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : font un peu pitié oui tu as raison et si c'était une campagne contre les pesticides
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : moi pour moi on est dans une dans une campagne de publicité pour dire aux enfants mangez des fruits vous allez devenir des super héros
+
+The predicted Conversation : 
+The target Conversation : ok bon ben ça peut ça peut marcher moi j'étais encore en train de réfléchir mais ça c'est c'est moi qui suis un petit peu nul là-dessus
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : c'est vrai que moi je préfère manger la poire pourrie que la pomme qui brille mais c'est très oui c'est très perso comme oui c'est sûr mais je pense que les enfants les enfants non ben les enfants ils préfèrent ils ont plus l'habit- et encore ça dépend ça dépend de comment on les habitue mais en général
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : oui c'est vrai une campagne de pub non mais c'est vrai moi je moi je suis d'accord d'accord je préfère manger un fruit voilà qui est
+
+The predicted Conversation : séries abandonnés
+The target Conversation : qui est un peu abîmé mais qui est mais qui a l'air meilleur là finalement la pomme elle a l'air un peu trop superficielle trop brillante moi jevais te dire chez moi en ce moment on cueille les abricots ils sont ils ont l'air pourris
+
+The predicted Conversation : spécialement exemple abandonnés
+The target Conversation : on se retrouve encore avec la poire pourrie ah bon encore ah oui c'est la deuxième fois moi que je l'ai
+
+The predicted Conversation : spécialement abandonnés une
+The target Conversation : je vois et j'ai l'impression que tout tous ces fruits moi ils m'inspirent pas trop confiance tu sais c'est pas comme par exemple dans les pubs pour les M&M's et tout ah d'accord ok
+
+The predicted Conversation : ensemble mauvaises dessins abandonnés
+The target Conversation : les M&M's ils sont tout mignons tout ronds tout beaux tout frais ou comme dans les pubs pour le Orangina où ça donne trop envie là c'est pas très pas très appétissant moi j'ai des sentiments différents là selon les sur les trois qu'on vient de voir parce que la
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : tu vois la fraise j'ai peut-être un peu plus d'admiration parce que je trouvais que c'était une battante mais là la poire elle me fait un petit peu pitié je me sens triste pour elle
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : après je pense pas qu'elle soit mauvaise non plus c'est c'est vrai les poires les plus mûres sont pas les plus mauvaises mon père a tendance à dire ça et attendre qui qui mûrissent bien en général
+
+The predicted Conversation : séries brillante abandonnés
+The target Conversation : c'est une framboise qui a l'air un petit peu triste elle est pas très jolie aussi quand même à côté de
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : de légumes elle a l'air un peu pourrie quoi presque moi elle me ferait penser à tu sais les bonbons un peu gélatineux des fruits d'avant
+
+The predicted Conversation : probablement brillante c'est abandonnés
+The target Conversation : moi au début elle m'a fait penser à la pub d'Oasis la pub d'Oasis
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : tu as tous les petits fruits qui dansent et qui sautent et enfin je sais pas ça m'a fait penser à ça
+
+The predicted Conversation : 
+The target Conversation : là on a encore des bras et des jambes c'est plus un super héros on est d'accord
+
+The predicted Conversation : brillante abandonnés
+The target Conversation : on est revenu c'est une aubergine
+
+The predicted Conversation : étaient abandonnés continue
+The target Conversation : de masque de super héros elle ressemble à Batman j'aurais plutôt dit Avengers
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : non je pense que tu as tort elle ressemble à Batman bon ben je vais pas te contrarier alors je pense
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : les yeux et la bouche ressemblent à ceux d'un super héros oui on dirait un masque
+
+The predicted Conversation : plus abandonnés continue
+The target Conversation : tu as une idée du message que les fruits sont des super héros
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est une fraise cette fraise est déformée elle est mieux formée
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : si elle était malade on dirait qu'elle a des cheveux verts justement ses cheveux ils sont pas verts ils sont jaunes c'est parler toute seule elle est toute abimée toute vieille comme si elle allait pas bien du tout
+
+The predicted Conversation : abandonnés continue
+The target Conversation : oui tu as raison toute défraichie du coup c'est peut-être parce que justement ça fait longtemps qu'elle a été coupée et
+
+The predicted Conversation : tordue disent abandonnés
+The target Conversation : elle est moche parce qu'elle vient de loin c'est fort possible elle a été abimée durant le trajet ou je sais pas je crois
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ou alors elle a été mal conservée et si c'était une campagne contre les pesticides oui ah pourquoi pas
+
+The predicted Conversation : peut-être séries brillante abandonnés
+The target Conversation : re bonjour Marine tu vas bien c'est clair
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui moi aussi j'ai vu une pomme à l'envers en plein pied oui tu as raison moi je crois que c'est une pomme
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : voilà elle est rouge c'est une pomme rouge cette pomme a des grands yeux voilà elle a des grands yeux oui exactement plutôt sévères
+
+The predicted Conversation : probablement dire brillante abandonnés
+The target Conversation : elle est appêtissante cette pomme oui tu ne crois pas moi pas trop elle me donne pas très envie
+
+The predicted Conversation : abandonnés continue
+The target Conversation : et on dirait on dirait un super héros cette pomme oui ben je sais pas
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ok alors là c'était une poire aussi avec un visage des yeux et qui semblait un peu perdue et toujours ça fait penser à un personnage d'une pub connue
+
+The predicted Conversation : l'endroit déformée abandonnés
+The target Conversation : pour la marque Oasis je ne suis pas sûre
+
+The predicted Conversation : même abandonnés continue
+The target Conversation : si moi je suis sure oui ça se pourrait
+
+The predicted Conversation : tordue abandonnés
+The target Conversation : la poire semble triste ou perdue perplexe elle semble fatiguée oui peut-être juste fatiguée
+
+The predicted Conversation : abandonnés continue
+The target Conversation : la poire est un peu abîmée ça j'ai pas vu par con- non j'ai pas vu tu ne penses pas c'est une poire pourrie
+
+The predicted Conversation : probablement l'intérieur brillante abandonnés
+The target Conversation : salut c'est les c'est les c'est une poire c'est une poire dans un piteux état quand même
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : c'est une poire pourrie oui et triste vu que c'est un bonhomme la poire semble triste toute abimée toute triste pardon
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : ça fait de la peine la poire a l'air malade aussi pas faux malade ou alors déprimée
+
+The predicted Conversation : abandonnés continue
+The target Conversation : elle est peut-être triste car elle est pourrie c'est possible mais qu'est ce que tu en dis et pourquoi elle est pourrie
+
+The predicted Conversation : abandonnés continue
+The target Conversation : -fin pourquoi elle est abimée elle est pourrie parce qu'elle vient de loin c'est possible qu'est ce que tu en dis c'est possible et du coup elle serait triste de venir de loin
+
+The predicted Conversation : pour continue tu fraise abandonnés
+The target Conversation : elle avait pas l'air en forme cette framboise là si c'était une framboise sont passés où nos super héros là
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : j'ai un pauvre fruit fatigué ou- ou alors c'est les super méchants qui viennent se faire battre ils viennent de se faire battre par les super héros non ça a pas l'air d'être exactement la même je me je me suis dit putain ils m'ont mis le meilleur dès le début et là d'un coup @
+
+The predicted Conversation : brillante abandonnés
+The target Conversation : c'est pas le même principe et déjà ils sont pas faits pareil c'est pas du tout non ben là déjà on est pas ciblé on est plus sur l'image image synthèse je trouve et puis on est plus sur un corps là ou là ou la précédent truc c'était que des visages
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : là ils en découpe là ils ont juste collés deux yeux une bouche et c'est ça on aurait dit les pubs pour Oasis là ou Fanta tu sais les ptu-
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ils ont ils ont pris un coup de vieux les pubs pour pour Oasis quoi ça c'est avant la fête ou non c'est après la fête le lendemain matin o- c'est c'est clair en fait c'est la c'est l'Oasis gueule de bois @
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : alors c'est une c'est une fraise
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : de la nourriture d'accord hier donc il y l'air d'avoir au moins un truc commun c'est qu'il y a toujours un truc à manger dans les images ok
+
+The predicted Conversation : abandonnés continue
+The target Conversation : donc là c'était une fraise fatiguée elle avait pas l'air l'air un peu cabossée c'est ça elle aurait pris des coups par exemple ou
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : je voyais un peu le boxeur qui descend du ring c'est vrai que ça fait qui après avoir pris des coups elle a pas l'air c'est pas la belle fraise qu'on voit dans le supermarché ou dans la pub
+
+The predicted Conversation : probablement point très
+The target Conversation : ah mais c'était une c'était une fraise non c'était pas une fraise c'était je sais pas moi j'aurais dit une framboise avec des gros trucs tu sais les gros trucs comment ça s'appelle peut-être les grains de la framboise et quand qui grossissent comme si elle avait un
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : on est retombé sur la fraise du coup toi tu
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : alors je sais pas mais je pense qu'on essaye d'inspirer de la pitié avec ces ces fruits tu penses quoi du fait que les fruits soient abimés et les légumes non
+
+The predicted Conversation : abandonnés continue
+The target Conversation : y rendent un peu triste quand même c'est ça du coup donc les légumes les légumes sont beaux et les fruits sont pas beaux
+
+The predicted Conversation : tordue disent abandonnés
+The target Conversation : c'est ben c'est pas logique
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : je sais pas doit y avoir un une [séparaison] une séparation du message peut-être que c'est deux campagnes différentes ah c'est possible parce qu'elles ont pas le même design
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : c'est une pomme à l'envers
+
+The predicted Conversation : abandonnés continue
+The target Conversation : avec les yeux découpés tout ça c'est encore un super héros et cette fois ci je crois que je vois le lequel
+
+The predicted Conversation : abandonnés continue
+The target Conversation : tu vois les films avec Spiderman oui parce que comme il est comme elle est à l'envers
+
+The predicted Conversation : toute exemple confiance histoire ma
+The target Conversation : ça pourrait ça pourrait peut-être être ça ah c'est pas bête j'avais pas pensé à ça c'est pas bête
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : du coup donc pour l'instant on a on a trois légumes c'est ça oui on a une aubergine
+
+The predicted Conversation : séries abandonnés
+The target Conversation : allo donc ça reste on reste dans la même idée quoi les
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : et voilà c'est ça c'est pareil on enlève un petit morceau de peau ça dessine ça dessine un visage tout à fait et avec ça on fait on fait un super héros Tortue Ninja
+
+The predicted Conversation : abandonnés continue
+The target Conversation : donc avec l'aubergine par contre l'aubergine et le citron ça a rien à voir c'est pas les trucs qui -fin le non ben c'est Batman et les Tortues Ninjas quoi
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : ah non l'aubergine c'est un légume qu'on mange et que le citron je sais pas trop ce qu'on en fait à part à part dans les cocktails mais les citrons verts ben ça se manger aussi y a des gens qui mangent des citrons
+
+The predicted Conversation : probablement mal brillante abandonnés
+The target Conversation : ah bon @ d'accord donc on peut m- ben cha- chacun ses goûts moi je déteste ça mais je connais des gens qui en mangent ah ok je pensais même pas que ça se mangeait le citron vert le lime
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : elle a l'air un peu bête cette poire parce qu'on dirait qu'elle louche je sais pas moi elle me fait de la peine
+
+The predicted Conversation : abandonnés continue
+The target Conversation : laissé tomber dans une caisse ben c'est peut-être ça le tu vois le truc parce que c'est elle a l'air cabossée comme un fruit qu'on aurait
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : là les les trois qu'on vient de voir sont clairement différents des trois qu'on avait vu au début donc et déjà c'est des fruits c'est pas des légumes
+
+The predicted Conversation : séries abandonnés
+The target Conversation : ah non ben si y avait la pomme et je pense que c'est y a une idée de fruits pourris et de fruits qui s- qui ont été abîmés et qui
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : qui peut-être nous en veulent de pas les avoir pas les avoir de pas consommés oui peut-être après je pense que y a quand même une certaine différence entre eux
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : salut les deux sont de la même pub
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : ok tu ne penses pas donc c'est une pub pour la production locale
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : je pense c'est une pub pour les producteurs de légumes ok donc c'est une pub française pour les produits français
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : ok qu'est ce que tu en dis oui c'est possible
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : par rapport aux produits étrangers oui ok
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est une poire c'est une poire un peu abîmée
+
+The predicted Conversation : probablement exemple brillante histoire
+The target Conversation : elle est déformée
+
+The predicted Conversation : abandonnés continue
+The target Conversation : l'a pas l'air très abîmée elle est traitée avec des pesticides tu ne crois pas
+
+The predicted Conversation : spécialement Elina abandonnés
+The target Conversation : elle pourrait être naturelle oui en effet
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : c'est une campagne pour les fruits locaux qui ne viennent pas de loin qu'est ce que tu en dis
+
+The predicted Conversation : abandonnés continue
+The target Conversation : salut allo ah tu m'entends donc c'est bien une framboise oui c'est des pros après réflexion
+
+The predicted Conversation : probablement mal brillante abandonnés
+The target Conversation : donc ça veut dire que là c'est on arrive au bout que je me rappelle aussi on avait fait on avait fait quatre fois quatre fois cinq minutes à peu près plusieurs possibilités à mon avis soit c'est une soit c'est une campagne pour c'est ça
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : pour priviliégier les produits les produits qui viennent de proche et à ce moment là les fruits les fruits abîmés ce seraient les fruits qui viennent de d'autre pays
+
+The predicted Conversation : brillante probablement ou peu abandonnés
+The target Conversation : soit ce serait un truc pour privilégier les produits voilà les produits moches cette framboise cette framboise elle est elle est abîmée mais si ça se trouve elle est elle est meilleure que la pomme trop brillante trop belle etcetera ah
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : c'est à dire que dans ces cas là c'est le petit me- le petit message qui serait mis à côté de l'image qui donnerait le voilà qui ferait twister dans un sens ou dans l'autre en fait ça mais bon ça parait compliqué quand même parce qu'elle est très abîmée
+
+The predicted Conversation : quiquinette point
+The target Conversation : salut c'est peut-être le Joker dans Batman
+
+The predicted Conversation : exemple salut ma histoire
+The target Conversation : non je pense que tu as tort tu penses à quoi alors elle ressemble aussi à un super héros
+
+The predicted Conversation : abandonnés continue
+The target Conversation : lequel elle ressemble à Batman à Batman c'est pas le cas alors
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : elle semble déterminée comme la pomme
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est peut-être ça alors
+
+The predicted Conversation : brillante abandonnés
+The target Conversation : du coup là c'est une poire un peu cabossée et
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : et et en fait au départ je pensais qu'elle était triste mais au final non j'ai l'impression que c'est un petit sourire en coin du coup il semblerait qu'elle soit avinée
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : je vois pas -fin bon tristesse -fin c'est neutre c'est pas si triste moi elle m'avait l'air je sais pas comment dire dépitée peut-être comment
+
+The predicted Conversation : séries abandonnés continue
+The target Conversation : oui un peu perplexe dépitée mais pas triste au final perdue aussi comme tu disais oui peut-être ça fait ça fait un gros une grosse différence avec les fruits de la première campagne
+
+The predicted Conversation : spécialement abandonnés oui
+The target Conversation : oui totalement et aussi avec la framboise qui est plus gélatineuse plus d'émotions -fin ah
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : ah et je crois que -fin je sais pas j'ai peut-être une idée où où en fait ça serait les deux côtés
+
+The predicted Conversation : abandonnés continue
+The target Conversation : tu sais les deux séries d'images mais enfin si c'est une pub pour les enfants elle est vachement compliquée à comprendre déjà pour un adulte donc les deux côtés de la de la même pub mais je sais pas encore dans quel sens il faut la
+
+The predicted Conversation : 
+The target Conversation : donc après si c'est pour un enfant ben après des fois il suffit de rajouter un mot oui
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : donc c'est des trucs un peu ambigus là pour le moment si c'est les deux campagnes sont liées je vois pas du tout le message ok j'avais l'idée je parce que dans les trucs que qu'on avait entendu y avait l'idée
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : je me disais d'une part en fait de la production saine locale mais je savais pas encore quel était le bon le côté positif parce que les gentils ceux qu'il faut manger c'est les premiers ou
+
+The predicted Conversation : abandonnés continue
+The target Conversation : on a déjà vu cette poire c'est une poire pourrie elle est un peu pourrie
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : elle a des bras et des jambes ah oui c- c'est comme une personn- personnification
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est ça je pense d'accord et toi ça te fait penser à quelque chose d'autre
+
+The predicted Conversation : peut-être abandonnés continue
+The target Conversation : elle est déformée des défor- elle a pas l'air en forme elle n'a pas l'air contente c'est vrai elle a une expression alors
+
+The predicted Conversation : spécialement fondu abandonnés
+The target Conversation : oui elle est dessinée on dirait ah oui c'est une image modélisée
+
+The predicted Conversation : séries là revoir abandonnés
+The target Conversation : 
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : c'est une poire jaune poire jaune qui a l'air naturelle c'est une poire oui ah oui
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est une poire moche tu ne penses pas non elle a l'air naturelle oui ah oui
+
+The predicted Conversation : exemple oubliée perdre histoire
+The target Conversation : c'est une poire avec des bras elle a des jambes qu'est ce que t'en penses
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ça change rien à sa qualité de poire
+
+The predicted Conversation : abandonnés continue
+The target Conversation : mais j'ai trouvé je pense pour le dis moi j'y ai réfléchi je crois que c'est Batman
+
+The predicted Conversation : abandonnés continue
+The target Conversation : d'accord t'as t'avais déjà bien trouvé pour la pomme en la en la re regardant c'était bien Spiderman complètement
+
+The predicted Conversation : peut-
+The target Conversation : je te dis je regardais pas trop forcément les les dessins animés à la télé mais les films de super héros j'en ai vu quelques uns c'est vrai que j'y aurais pas pensé du tout bravo merci
+
+The predicted Conversation : abandonnés continue
+The target Conversation : oui peut-être en même temps l- la pomme peut-être mais Batman ça fait partie du personne que d'être un peu
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : un peu rustre c'est vrai c'est vrai alors que c'est vrai que Spiderman il est sympa lui par contre donc exactement alors que ba- Batman une fois qu'il a enfilé son masque il devient un peu méchant c'est vrai
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : salut pour 10 je m'appelle Fuhrat
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est l'état qui te paye un peu l'état qui l'a créé oui c'est possible ah l'état elle est moche parce qu'elle vient de loin l'état il a mis en place ah oui
+
+The predicted Conversation : abandonnés continue
+The target Conversation : et c'est peut-être une campagne pour favoriser les fruits locaux c'est par état d'accord oui
+
+The predicted Conversation : probablement des abandonnés
+The target Conversation : est-ce qu'on peut revenir au sujet ben oui ben c'est l'état qui finance les fruits locaux avec des * sur la campagne oui en effet est ce que Birgit est en thèse CIFRE
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : non pas du tout ah dommage @ auquel bon ben c'est pas évident du tout au niveau de la communication quand on voit les fruits qui sont je pense
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui ok on a un demi citron c'est ça alors je t'entends pas très bien
+
+The predicted Conversation : histoire avoir seraient ensemble abîmés
+The target Conversation : a- apparemment elle m'entend pas beaucoup c'est moi est ce que si je parle plus fort ça va mieux s'ils pouvaient monter un peu le volume du son ça serait bien
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui là c'est un peu mieux ok d'accord on dirait un demi citron vert cette fois-ci oui c'est sûr avec encore une fois des yeux qui ont été découpés là oui et là ça ressemble à un cagoulé -fin c'est cagoulé
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ah ça ressemble beaucoup à comment ils s'appellent les Tortues Ninja ah oui moi j'aurais dit le masque de Zorro mais oui les Tortues Ninja ça rentre peut-être mieux
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ah les deux et moi j'avais l'impression que ça ressemble vraiment à cette -fin tu sais le dessin animé là ou le film je sais plus il y a des petites tor- Tortues Nin- ninjas ah c'est possible
+
+The predicted Conversation : brillante probablement peut-être des abandonnés
+The target Conversation : le citron vert est rigolo on dirait un ninja salut
+
+The predicted Conversation : abandonnés continue
+The target Conversation : ah oui Tortue Ninja tu ne penses pas oui un ninja j'avais pas pensé à la tortue mais effectivement un ninja c'est sûr je trouve qu'elle ressemble à une Tortue Ninja
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui je crois aussi il a l'air gentil il a l'air tout doux et on dirait aussi un peu les pubs des fruits d'Oasis il n'est pas méchant comme les deux autres non
+
+The predicted Conversation : abandonnés continue
+The target Conversation : plus acide normalement il semble fiable oui c'est vrai qu'on pourrait lui faire confiance en tout cas
+
+The predicted Conversation : tordue abandonnés
+The target Conversation : il a l'air plus sympathique et abordable que les autres n'est ce pas oui et beau tu as une idée du message
+
+The predicted Conversation : abandonnés continue
+The target Conversation : la fraise bagarreuse
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : c'est peut-être une campagne pour les fruits locaux ah oui peut-être mais en peut-être je sais pas le robot il a commencé à dire
+
+The predicted Conversation : ensuite brillante abandonnés
+The target Conversation : c'est possible du coup en fait ça se pourrait et les premiers c'est des super héros parce que c'est des locaux
+
+The predicted Conversation : abandonnés je mal prend spécialement
+The target Conversation : ça serait ça je pense c'est le plus plausible tu crois qu'ils doivent aller ensemble ou qu'ils hésitent entre les deux
+
+The predicted Conversation : 
+The target Conversation : je sais pas je sais pas mais ils devraient le faire ensemble donc la carotte et le baton
+
+The predicted Conversation : séries abandonnés
+The target Conversation : allo est ce que tu m'entends alors je t'entends bon c'est super et est ce qu'on a vu la même chose c'était une aubergine
+
+The predicted Conversation : très séries brillante abandonnés
+The target Conversation : d'accord donc c'était une aubergine on aurait une tête une tête de Batman là ok ils m'ont dit que c'était la même chose qu'hier mais c'est pas les mêmes images mais ç- ça fait rien
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : ah les trucs découpés je me demandais ce que c'était faudra que je lève un petit peu le ton pour que je t'entende un petit peu mieux et d'accord super * je vais rapprocher un peu le micro alors comme ça ira bien ah voilà ah c'est parfait c'est parfait
+
+The predicted Conversation : exemple perdre histoire route
+The target Conversation : la tête de Bat- donc ce qui était d'accord c'était le visage qui était découpé dessus je me demandais pourquoi ils avaient enlevé la peau comme ça mais c'était pour tu sais moi ça m'a fait penser à comment tu peux comment tu peux faire manger des légumes à des gamins
+
+The predicted Conversation : abandonnés continue
+The target Conversation : tu sais pour rendre le truc fun @ non mais c'est ben carrément parce que le super héros et le *
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : allo ça marche ça marche nickel ah bon ben c'est bon alors c'est reparti par contre j'ai oublié ce que je voulais dire tout à l'heure parce que j'avais un truc avec cette framboise et
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : voilà j'ai oublié c'était l'idée qu'on était on était plus du tout dans le même
+
+The predicted Conversation : 
+The target Conversation : complètement je crois que c'est je crois que c'est ça qu'il se passe en fait y a des y a des séries d'images et dans une dans une dans un truc là dans une session on voit toute une série puis après on en voit une autre
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : donc là c'était donc une framboise et là il c'est différent c'est plus du tout découpés c'est ils ont juste collés
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : sur Paint ils lui ont mis un petit visage là et puis des des ah la je perds mes mots des pieds des jambes des membres
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est peut-être en fait peut-être le sens si on considère que les deux séries sont de la même campagne
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : si on mange des fruits frais on est plus un super héros et si on mange pas des fruits frais ben déjà mouais un libre le sens serait que
+
+The predicted Conversation : 
+The target Conversation : voilà exactement c'est dommage ils sont tristes les fruits et ils sont tristes quand ils vont à la poubelle ah ben voilà yes je pense que c'est ça hop en tout cas y a un truc de cohérent
+
+The predicted Conversation : abandonnés continue
+The target Conversation : donc ça serait les fruits frais c'est bon quand ils pourrissent c'est con grave @ je vais me recycler c'est ça
+
+The predicted Conversation : 
+The target Conversation : je vais aller faire je vais aller faire slogan de pub comme Beigbeder c'est ça beh ça marche ça faudrait peut-être voir
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : ok
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : qui a l'air beaucoup moins triste que la framboise comme tu as dit elle serre les poings peut-être qu'elle se bat contre quelque chose
+
+The predicted Conversation : exemple perdre ma histoire
+The target Conversation : et du coup un peu comme la première série oui et ça se trouve on nous les a pas montré dans le bon ordre et en fait y a une transition entre les les fruits et les légumes qu'on a eu
+
+The predicted Conversation : abandonnés continue
+The target Conversation : tu vois oui je vois c'est peut-être possible -fin y a une grosse différence mais peut-être que y a tout un spectre et que la fraise ce serait la première et
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : je sais pas moi du coup dans ces cas la poire la dernière vu que c'est une victime oui c'est vrai on a l'impression qu'elle frime un peu cette fraise
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : alors on a re la photo de la pomme en Spiderman oui
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : quel serait le message parce que y a pas d'écritures autour y a que l'image et et moi j'arrive pas à savoir pour
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui exactement c'est compliqué de savoir ce que ça pourrait dire à qui c'est adressé et oui en effet qui adresse le message aussi
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui bien sûr t'en penses quoi toi je ne sais pas c'est une campagne contre les pesticides
+
+The predicted Conversation : séries point prend
+The target Conversation : qu'est ce que t'en penses ben les super héros sont en bon état ah oui est ce que ça serait contre les pesticides alors
+
+The predicted Conversation : abandonnés continue
+The target Conversation : oh il me il me tue ce Fuhrat il est excellent de quoi ben ce Fuhrat il est excellent oui pourquoi et parce qu'il me dit que tu sais elle est m- ils sont moches et ils sont pas
+
+The predicted Conversation : l'aubergine abandonnés continue
+The target Conversation : ils vont pourrir et on a pas envie de les manger et du coup il me dit tu crois que c'est une campagne pour les pesticides j'ai dit ah ben oui si c'est la campagne pour les pesticides c'est réussi @
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est lui qui l'a dit pour les pesticides ah ben c'est super alors en fait on était parti angéliques @ non mais c'est sérieux quoi mais non en fait c'est Monsanto
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : c'est pour avoir les pesticides les graines bien formatées les fruits bien tous pareils ah c'est ça regardez nos fruits comme ils sont beaux quoi
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : alors que ça serait contre intuitif en fait on était trop on était parti avec agriculture biologique agriculture locale bon après c'est Fuhrat c'est Fuhrat qui dit ça il a pas de côté humain peuchère on peut pas lui en vouloir
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : ah là on voyait une framboise un peu triste oui
+
+The predicted Conversation : spécialement abandonnés
+The target Conversation : non avec des tout petits yeux et elle a une bouche étroite
+
+The predicted Conversation : brillante abandonnés
+The target Conversation : elle a des genoux courbés c'est vrai un peu affaissée sur elle même ah oui
+
+The predicted Conversation : probablement mais brillante abandonnés
+The target Conversation : elle est un peu pourrie oui qu'est ce que t'en penses ben je pense que c'est une framboise pourrie après je sais pas le message qu'elle veut véhiculer
+
+The predicted Conversation : abandonnés continue
+The target Conversation : mais elle est peut-être triste car elle est pourrie oui c'est vrai elle devient triste parce qu'elle est pourrie
+
+The predicted Conversation : abandonnés continue
+The target Conversation : c'est une fraise oui elle a l'air assez vénère c'est ses bras comme ça
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : et comme ça enfin en e- elle a une expression on dirait qu'elle va qu'elle s'énerve qu'elle va frapper quelqu'un c'est ça j'ai pas eu beaucoup
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : quasi sûre qu'elle avait les poings fermés oui elle avait les poings fermés et puis elle avait le regard oui c'est un petit peu énervé quoi
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : avec les pupilles vers le haut moi je moi je dirais un air de défi peut-être exact un air de défi par contre elle est abîmée aussi
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : donc entre la framboise d'Oasis qu'a l'air assez moche et la fraise énervée qui a l'air abîmée est ce que tu penses qu'il y a une signification entre les deux
+
+The predicted Conversation : abandonnés continue
+The target Conversation : tu m'entends on a eu on a on a vu la même image normalement c'était
+
+The predicted Conversation : là le abandonnés continue
+The target Conversation : l'aubergine à l'envers là -fin à l'envers je sais pas si c'est à l'envers à l'endroit donc ben déjà que -fin t'as vu elle avait des trucs découpés ça dessinait un visage non le
+
+The predicted Conversation : abandonnés continue
+The target Conversation : on aurait dit Batman c'est ça Batman t'as l'impression c- je crois que c'était ça qu'on avait qu'on avait dit aussi hier donc c'est un truc qui a à voir avec
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : avec soit les super héros soit avec les légumes ou je sais pas
+
+The predicted Conversation : abandonnés continue
+The target Conversation : est ce qu'ils ont découpés elle est hyper jolie l'aubergine c'est un des trucs très normal -fin je sais pas elle brille elle a pas de -fin c'est un truc parfait quoi comme si ça avait été dessiné par ordinateur
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : bon c'est parti * hey ils a- ils j'a- j'avais eu une autre idée à proposer aussi je sais pas ce que ça vaut mais c'est pour essayer de comprendre
+
+The predicted Conversation : abandonnés continue
+The target Conversation : séries qui doivent amener à la au même message ils essayent de voir laquelle avec laquelle on comprend et du coup là l'IA m'a ressorti que c'était contre les pesticides peut-être c'est deux
+
+The predicted Conversation : abandonnés continue
+The target Conversation : peut-être que c'est les plus forts parce que du coup les fruits sont forts parce que
+
+The predicted Conversation : probablement l'endroit abandonnés
+The target Conversation : et ou alors ils sont forts parce que ils ont eu plein de pesticides c'est ce que je disais non bon ils sont *
+
+The predicted Conversation : abandonnés continue
+The target Conversation : si ça représente les * je sais pas ou alors c'est le contraire des est ce qu'on peut avoir l'antithèse les beaux c'est les s- mais ça serait pas les super héros en tout cas
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : salut alors ce citron
+
+The predicted Conversation : probablement brillante abandonnés
+The target Conversation : oui il n'est pas aussi agressif que les autres il est pas quoi il n'est pas aussi agressif que les autres à part qu'il est sympathique on sait pas trop quoi dire quoi donc
+
+The predicted Conversation : probablement abandonnés
+The target Conversation : ah aussi il semble fiable il a l'air gentil c'est ça non il n'est pas méchant comme les deux autres
+
+The predicted Conversation : séries abandonnés
+The target Conversation : je comprends que c'est une comparaison par rapport aux autres mais je comprends pas la ce qui dit de la comparaison mais pareil que les autres qu'est-ce que tu en penses
+
+The predicted Conversation : abandonnés continue
+The target Conversation : je crois un niveau dans le champ de la caméra peut-être que ça m'aide à mieux comprendre je sais pas
+

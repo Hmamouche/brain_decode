@@ -1,20 +1,14 @@
-# Implementation code of the paper: A Multimodel LLM for the Non-Invasive Decoding of Spoken Text from Brain Recordings
+# Implementation code of the paper: A Multimodal LLM for the Non-Invasive Decoding of Spoken Text from Brain Recordings
 
 
 ## Requirements
-* fasttext==0.9.2
-* nltk==3.7
-* numpy==1.26.4
-* pandas==1.4.2
-* torch==2.1.2
-* transformers==4.33.2
-* auto_mix_prep==0.2.0
-* wandb==0.16.3
-
 ```bash
 python install -r requirement.txt
 ```
 
+## Tools
+* Download vicuna-7b-v1.3 from https://huggingface.co/lmsys/vicuna-7b-v1.3 in the folder llm
+* Download CLIP: git clone https://github.com/openai/CLIP
 
 ## Training Transformers
 To train and test transformer models, from "benchmark_transformers" folder, run the same pyhton scripts but without '--test' the flag , for example:
@@ -52,16 +46,14 @@ Arguments:
 To train and test Multimodal LLMs:
 
 ```bash
-python  mllm_frmi_to_txt_vicuna.py
+python  mllm_frmi_txt.py
 ```
 
 And for the version that includes image in the input:
 
 ```bash
-python  mllm_image_frmi_to_txt_vicuna.py
+python  mllm_image_frmi_txt.py
 ```
-
-
 
 
 ## Evaluation / Benchmarking
@@ -72,3 +64,4 @@ python evaluation.py
 
 ## Additional Notes
 * The structure of this repository is in work progress
+* Some part of this code are inspired from InstructBlip (https://github.com/salesforce/LAVIS/blob/main/projects/instructblip/README.md), we thank the authors for their great work.

@@ -1,0 +1,750 @@
+The predicted Conversation : refait une t'entends mais avoir essayer cette yeux peu pourtant sont pomme la les par
+The target Conversation : voilà donc là thierry il s'agit de l'image dont je te parlais tout à l'heure donc y a c'est la pomme que j'avais pas vu la pomme voilà la pomme
+
+The predicted Conversation : ont jeune carrément ils les découpé faisait un et avoir forme j'avais enfants mais y Tortues bien te en découper
+The target Conversation : ah clairement spider man et y a c'est ça avec la pomme qui est complètement posée à l'envers donc qui fait sens avec
+
+The predicted Conversation : bonne ont ils les tu je -fin et avoir oui fruits visages suis moins ça se leurs c'est as
+The target Conversation : à adhérer aux surfaces et aux plafonds pourquoi pas ah bien vu donc voilà non j'aurais pas j'avais pas pensé à ça en tout cas on a quand même un fruit un légume et un agrume
+
+The predicted Conversation : machin 5 d'être mais avoir des cette yeux hum goûter en la les par
+The target Conversation : si ça avait vraiment que pour manger ils auraient mis une orange plutôt qu'un citron peut-être le citron vert parce que c'est vert comme les tortues ninjas
+
+The predicted Conversation : refait t'entends d'être mais avoir des cette yeux pomme et la les par le
+The target Conversation : c'est ça voilà c'est ce qui fait sens c'est pour faire le thème super-héros j'ai l'impression que c'est voilà c'est j'ai l'impression que c'est pour rendre amusant des fruits et légumes aux yeux des enfants ah ça serait un truc
+
+The predicted Conversation : ont peu pas ils les aux un cette fram- pomme et la triste avoir bandeaux mais fatigués donc difforme yeux
+The target Conversation : moi j'ai vu une framboise avec des bras et des jambes non juste des jambes
+
+The predicted Conversation : a peu hum série les fait un cette de la avoir brillante mais y cool lesquels donc yeux en
+The target Conversation : c'est vrai que maintenant en la revoyant je trouve qu'elle est un peu déformée elle a une expression elle a l'air un peu fatigué
+
+The predicted Conversation : pour être donne héros sont ça c'est les
+The target Conversation : moi en la revoyant ça me fait penser à tu sais certains paquets de bonbons avec des avec des framboises dedans moi ça me fait penser à Oasis la boisson Oasis oui
+
+The predicted Conversation : donne mais avoir tu cette yeux hum raison la c'est les par
+The target Conversation : oui exact j'ai pas le réflexe télévision mais oui celle où y a la cascade et et y a tous les petits fruits qui font la fête dans la cascade
+
+The predicted Conversation : C'est ont bandeaux mais avoir un cette yeux peu peut- fram- pomme et ils la triste les
+The target Conversation : oui et ça créé la boisson c'est ça
+
+The predicted Conversation : on bonne salut une rendre ça yeux avec de et parce les tu pourrir
+The target Conversation : salut moi je crois que c'est un citron
+
+The predicted Conversation :  ont bandeaux mais avoir un cette yeux peu ça fram- pomme et ils la triste les
+The target Conversation : c'est un citron vert en forme de Tortue Ninja quelqu'un a découpé un bandeau dans le citron c'est un demi citron
+
+The predicted Conversation : a voilà mais avoir donc cette yeux hum des série un encore la cascade cool les
+The target Conversation : il a un visage le citron oui c'est une tu ne crois pas oui c'est une Tortue Ninja il ressemble à un ninja oui je crois aussi
+
+The predicted Conversation : oui grands même vois dessins ça y est mais puis en -fin et la deux c'est les par
+The target Conversation : il a l'air fort comme les autres oui c'est un super héros oui exactement
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : tu ne pense pas oui je pense pareil
+
+The predicted Conversation : message refait à mais avoir des cette yeux d'accord ça pomme et la les par
+The target Conversation : re bonjour
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : oui donc là du coup c'est une aubergine ah oui qui ressemble un petit peu à Donald Duck je trouve bonjour
+
+The predicted Conversation : refait à visages mais avoir ok cette yeux des pomme et la les par
+The target Conversation : elle ressemble un peu à un canard non
+
+The predicted Conversation : ont globalement visage suis peut-être mais un ils que et parce c'est avoir tu le
+The target Conversation : avec un bec je ne suis pas s- je ne suis pas sûre bon et en tout cas elle a une expression méchante
+
+The predicted Conversation : a plus le d'être mais avoir cette yeux hum comme mouais -fin la les par me
+The target Conversation : c'est peut-être pour Halloween oui c'est possible
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais qu'ils donc difforme yeux
+The target Conversation : c'est toujours notre framboise de tout à l'heure elle a elle a toujours son air triste
+
+The predicted Conversation : ont propre bandeaux mais avoir un cette yeux peu donc fram- pomme et ils la triste les
+The target Conversation : du coup ça inspire encore plus de compassion tu sais tu te dis putain la pauvre on dirait qu'elle a raté sa vie et en plus elle a pas de bras puis j'ai remarqué aussi que on dirait qu'elle a pas de bras
+
+The predicted Conversation : bonne donne pas hum ils parce les tu je tous veut mais sont y non sûr elle qu'est c'est
+The target Conversation : oui pardon @ exactement ok du coup elle est ah c'est la framboise abimée et handicapée qui se ferait maltraitée par les
+
+The predicted Conversation : t'as autre pourquoi exactement une rond mangue déformée ah vraiment rapport donc yeux devrait la Oasis cool les
+The target Conversation : les autres je suis sure que ça doit être ça et du coup en fait ce serait l'idée que les super héros finalement c'est plutôt des super vilains
+
+The predicted Conversation : 5 d'être @ mais avoir ça cette yeux hum goûter tu pourrait la les par
+The target Conversation : ah ok du coup en fait le citron ce serait l'exception je pense celui qu'on aimait bien là tout à l'heure le robot il m'a dit que il m'a dit tiens peut-être que le citron c'est une pub pour les enfants tu sais pour
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais donc difforme yeux en
+The target Conversation : tout ce qu'on avait c'était avec la pardon j'étais en train de refaire le point sur ce qu'on avait dit et si ça marchait bien
+
+The predicted Conversation : on a fait elle la mince se comme m'a poire côté peau que et autres tu
+The target Conversation : une framboise française ah la framboise putain pas réveillé mais enfin c'est pareil elle française -fin c'est @ ça donne moins envie d'un seul coup donc ça serait une poire française
+
+The predicted Conversation : a plus peu hum déformés les un cette -fin la avoir mais y sont peau cool est yeux comme robot cascade
+The target Conversation : logiquement oui c'est ces produits français qui entre guillemets se sont fait battre par les produits américains et que donc il faut que nous on les défende
+
+The predicted Conversation : ont bandeaux compte mais avoir un cette yeux peu car fram- pomme et ils la triste les
+The target Conversation : en achetant local en achetant en achetant des trucs locaux et ça peut peut-être aller aussi avec les super héros ils sont plein de pesticides et d'hormones et de des OGM
+
+The predicted Conversation :  ont peu ils les fait être un cette fram- pomme et la triste avoir bandeaux mais ça yeux comme
+The target Conversation : les locaux ils ont moins bonne mine mais au moins par contre ils ont quand même -fin la framboise elle est pas très mangeable ça reste franchement la framboise c'est un peu
+
+The predicted Conversation : a fait salut rire quelle bonjour font ça tu pas premier tous côté en encore toi que
+The target Conversation : ça c'est une fraise ah oui et
+
+The predicted Conversation : oui elles quoi bandeaux auraient moches un peu ça comme vous qui ils abîmés et avoir
+The target Conversation : elle a envie qu'on la regarde qu'est ce que t'en penses
+
+The predicted Conversation : Ninja forme un mais regarder premiers moches poings Tortues qu'il découper couleur avoir découpé
+The target Conversation : pourquoi c'est fraise triste ah oh moi je trouve pas qu'elle ait l'air triste elle est un peu abîmée oui ça c'est vrai
+
+The predicted Conversation : machin refait j'étais mais avoir ça cette yeux j'ai pourtant déjà pomme la vu les
+The target Conversation : oui tu as raison voilà
+
+The predicted Conversation : as ah y sont un peu je chose puis Spiderman enfin et cause tu
+The target Conversation : tu as une idée du message non
+
+The predicted Conversation : quoi sans doute forcément mais avoir des cette yeux l'ordinateur tous pomme de la cool les prendre
+The target Conversation : t'as raison c'est Batman ah voilà je pense que c'est la même série que tout à l'heure
+
+The predicted Conversation : t'as simple voilà dans contre peut auraient peut-être mûre en soit peau par
+The target Conversation : ben du coup ça a permis de confirmer mais je dirais que tu as changé c'est la même série que tout à l'heure oui
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais auraient qu'ils donc difforme yeux comme
+The target Conversation : est ce que y a quelque chose qui a changé non je pense pas que quelque chose qu'il y ait changé ok on pourra peut-être essayer de faire attention pour la prochaine image si ça retombe
+
+The predicted Conversation : à donne ça donc comme laisse citron les
+The target Conversation : sur quelque chose de pareil
+
+The predicted Conversation : ont peu pas ils les un cette je fram- -fin pomme et la triste avoir bandeaux suis mais yeux
+The target Conversation : que là ce qu'on a vu avec Batman et et Spiderman et le le troisième là
+
+The predicted Conversation : ont l'autre lumière enfants y regarder ça gros donc rendre tous côté ils prendre et pourtant allo
+The target Conversation : alors c'est à nouveau la pomme rouge salut
+
+The predicted Conversation : là fait oui couleur disais vois quand ça petit yeux comme non triste les tu
+The target Conversation : qu'est-ce que tu penses de cette campagne elle est appétissante cette pomme tu peux répéter ah oui
+
+The predicted Conversation : a bonne peu hum encore les un cette la avoir voilà ressemblent mais y plutôt cool ça yeux qui
+The target Conversation : on est je sais pas quoi cette pomme peut-être qu'elle combat les mauvaises habitudes alimentaires oh je comprends rien du tout
+
+The predicted Conversation : framboise a fait plus as poings en et vu les tu forme
+The target Conversation : et j'espère que tu m'as pas donné un indice pour comprendre le message de cette campagne parce que moi je pense que ça dit pour l'instant que les légumes sont méchants et les fruits sont gentils comme un fruit
+
+The predicted Conversation : t'as sale autre non mignon aurait changement ça y yeux comme déformés les encore ok pourtant
+The target Conversation : pas sûr qu'est-ce que ça veut dire alors ça veut dire elle a l'air un peu agressive
+
+The predicted Conversation : bonne ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais aubergine auraient qu'ils donc difforme yeux
+The target Conversation : salut Fuhrat ça m'avait l'air d'être une poire je suis d'accord c'est une poire jaune c-
+
+The predicted Conversation : ses les découpés bleus et la oui ring une sa plastique suis comment d'un s'était tristes moins fraise ça yeux comme c'est
+The target Conversation : c'est une poire pourrie elle est pourrie c'est le mot oui je crois aussi c'est beaucoup moins rigolo que la préc- précédente session ça me donne pas envie de manger des poires ça
+
+The predicted Conversation : fraise une pub truc comment pas ça y des comme m'a pourrait c'est tu le
+The target Conversation : je sais pas ce que t'en penses non je ne crois pas elle avait l'air toute triste la pauvre la poire semble triste oui bien sûr
+
+The predicted Conversation : a bonne tout peut-être enfants mais hum poings et moins les
+The target Conversation : elle semble malheureuse c'est dommage elle semble fatiguée j'espère qu'on va pas j'espère qu'on va pas montrer ça à des enfants ça va pas leur donner
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais qu'ils donc difforme yeux
+The target Conversation : ça va pas leur donner envie oui en effet qu'est ce que t'en penses toi peut-être que quequ'un l'a frappé
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : la fraise a l'air déterminée elle est pas calibrée mais elle est elle a l'air plus appétissante
+
+The predicted Conversation : il oui a ont pas cette sorte poings vous comme ils de et les forme
+The target Conversation : que la framboise elle a les poings un peu serrés j'ai vu les trois oui et les yeux aussi un regard
+
+The predicted Conversation : peu pas ben autres tu oh méchant vie ces de avoir le elles mais pourtant il donc comme c'est
+The target Conversation : je ou -fin j'ai moins fait attention que ça dans les yeux tu sais un côté un peu blasé avec le fait qu'il soit fermé par le haut
+
+The predicted Conversation : ont peu ils mêmes les un cette fram- pomme et la triste avoir bandeaux y mais non donc difforme yeux en c'est
+The target Conversation : j'ai pas fait attention j'ai vu les trois effectivement j'ai regardé la consistance de la fraise elle était pas calibrée mais elle était dans un meilleur état elle donnait
+
+The predicted Conversation : bonne sinon encore nous découpés contre tous et avoir petites une plastique suis regarder tristes moins pourtant bon des se comme par
+The target Conversation : quand même plus envie des trois c'est vrai que ça ressemble un peu plus à une fraise que la oui c'est ça la framboise qu'avant elle était pas sympa du coup tu penses que la fraise et la framboise sont dans le même set
+
+The predicted Conversation : légumes avait fruits notre quand des comme jambes et moins c'est les super
+The target Conversation : 
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : du message où après avoir parlé avec avec l'autre personne je pense que tu as une idée du message
+
+The predicted Conversation : ont qu'ils donc trucs l'impression ils abîmés et deux pris avoir
+The target Conversation : locaux peut-être qu'ils viennent de moins loin et qu'ils ont pas de traitements chimiques et du coup qui ont peut-être une apparence un peu plus brute
+
+The predicted Conversation : quand changement déformés les j'ai toi important autre elles fruits toujours @ mais pourtant dit t'as il * ça yeux c'est veux
+The target Conversation : et naturelle finalement mais voilà c'est pour faire une campagne pour inciter les gens à manger ces fruits qui qui d'apparence
+
+The predicted Conversation : d'être mais avoir cette yeux hum je qu'il j'arrive mûre la naturels les par me
+The target Conversation : font un peu pitié oui tu as raison et si c'était une campagne contre les pesticides
+
+The predicted Conversation :  ont bandeaux mais avoir un cette yeux peu fram- pomme et ils la triste les
+The target Conversation : moi pour moi on est dans une dans une campagne de publicité pour dire aux enfants mangez des fruits vous allez devenir des super héros
+
+The predicted Conversation : fraise peur a quand ça peu y cette comme robot -fin peau légumes me
+The target Conversation : ok bon ben ça peut ça peut marcher moi j'étais encore en train de réfléchir mais ça c'est c'est moi qui suis un petit peu nul là-dessus
+
+The predicted Conversation :  ont peu ils les être un cette fram- pomme et la triste avoir bandeaux mais serait ça yeux en
+The target Conversation : c'est vrai que moi je préfère manger la poire pourrie que la pomme qui brille mais c'est très oui c'est très perso comme oui c'est sûr mais je pense que les enfants les enfants non ben les enfants ils préfèrent ils ont plus l'habit- et encore ça dépend ça dépend de comment on les habitue mais en général
+
+The predicted Conversation : a mis ils parce les fait aux voyais de que la petites fruits méchante pourtant t'as sale là yeux en c'est
+The target Conversation : oui c'est vrai une campagne de pub non mais c'est vrai moi je moi je suis d'accord d'accord je préfère manger un fruit voilà qui est
+
+The predicted Conversation : avait essayait si suis y ça comme tous en ils par autres le
+The target Conversation : qui est un peu abîmé mais qui est mais qui a l'air meilleur là finalement la pomme elle a l'air un peu trop superficielle trop brillante moi jevais te dire chez moi en ce moment on cueille les abricots ils sont ils ont l'air pourris
+
+The predicted Conversation : a bonne vraiment @ enfants ça donc c'était yeux poings comme bien tête tu le
+The target Conversation : on se retrouve encore avec la poire pourrie ah bon encore ah oui c'est la deuxième fois moi que je l'ai
+
+The predicted Conversation : a bonne peu hum sur encore les un cette la avoir voilà mais y Tortues cool dans donc est yeux c'est
+The target Conversation : je vois et j'ai l'impression que tout tous ces fruits moi ils m'inspirent pas trop confiance tu sais c'est pas comme par exemple dans les pubs pour les M&M's et tout ah d'accord ok
+
+The predicted Conversation : il bonne des ça que les
+The target Conversation : les M&M's ils sont tout mignons tout ronds tout beaux tout frais ou comme dans les pubs pour le Orangina où ça donne trop envie là c'est pas très pas très appétissant moi j'ai des sentiments différents là selon les sur les trois qu'on vient de voir parce que la
+
+The predicted Conversation : a ont peu ils les un cette je fram- pomme et la triste avoir bandeaux mais donc difforme yeux
+The target Conversation : tu vois la fraise j'ai peut-être un peu plus d'admiration parce que je trouvais que c'était une battante mais là la poire elle me fait un petit peu pitié je me sens triste pour elle
+
+The predicted Conversation : fraise a sympathique refait si donc peu cette chose et la c'est par
+The target Conversation : après je pense pas qu'elle soit mauvaise non plus c'est c'est vrai les poires les plus mûres sont pas les plus mauvaises mon père a tendance à dire ça et attendre qui qui mûrissent bien en général
+
+The predicted Conversation : a message peu hum sur encore les un lien cette la avoir machin brillante mais y cool lesquels première donc yeux
+The target Conversation : c'est une framboise qui a l'air un petit peu triste elle est pas très jolie aussi quand même à côté de
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : de légumes elle a l'air un peu pourrie quoi presque moi elle me ferait penser à tu sais les bonbons un peu gélatineux des fruits d'avant
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : moi au début elle m'a fait penser à la pub d'Oasis la pub d'Oasis
+
+The predicted Conversation : a nouvelle mais avoir donc cette yeux hum des un la cool les super
+The target Conversation : tu as tous les petits fruits qui dansent et qui sautent et enfin je sais pas ça m'a fait penser à ça
+
+The predicted Conversation : a on clair une toi mangé ça un pas tu yeux non c'est les allo pourrir
+The target Conversation : là on a encore des bras et des jambes c'est plus un super héros on est d'accord
+
+The predicted Conversation : a bonne hum déformés encore les un cette pomme la avoir peut sont mais y cool lesquels ça yeux comme en c'est super
+The target Conversation : on est revenu c'est une aubergine
+
+The predicted Conversation : refait deuxième mais avoir des cette yeux moches pomme et la les par
+The target Conversation : de masque de super héros elle ressemble à Batman j'aurais plutôt dit Avengers
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : non je pense que tu as tort elle ressemble à Batman bon ben je vais pas te contrarier alors je pense
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : les yeux et la bouche ressemblent à ceux d'un super héros oui on dirait un masque
+
+The predicted Conversation : ont peu pas ils les un cette fram- pomme et la triste avoir bandeaux mais serait ça yeux car comme
+The target Conversation : tu as une idée du message que les fruits sont des super héros
+
+The predicted Conversation : faisait Ninja jeune un mais peu légume sympa Tortues les la c'est avoir
+The target Conversation : c'est une fraise cette fraise est déformée elle est mieux formée
+
+The predicted Conversation : à vie l'envers donne peut-être mais avoir cette yeux comme pomme la les
+The target Conversation : si elle était malade on dirait qu'elle a des cheveux verts justement ses cheveux ils sont pas verts ils sont jaunes c'est parler toute seule elle est toute abimée toute vieille comme si elle allait pas bien du tout
+
+The predicted Conversation : on a dans beaux ah ça aux bien les avec que dit
+The target Conversation : oui tu as raison toute défraichie du coup c'est peut-être parce que justement ça fait longtemps qu'elle a été coupée et
+
+The predicted Conversation : framboise d'être mais avoir un cette yeux hum peu ça mouais la c'est les par le
+The target Conversation : elle est moche parce qu'elle vient de loin c'est fort possible elle a été abimée durant le trajet ou je sais pas je crois
+
+The predicted Conversation : lequel pourrais disais vrai ça y mais saute yeux poings doit en cool non c'est tu
+The target Conversation : ou alors elle a été mal conservée et si c'était une campagne contre les pesticides oui ah pourquoi pas
+
+The predicted Conversation : fraise pareil ont quelle suis y sont yeux premier déformés les la pourtant
+The target Conversation : re bonjour Marine tu vas bien c'est clair
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : oui moi aussi j'ai vu une pomme à l'envers en plein pied oui tu as raison moi je crois que c'est une pomme
+
+The predicted Conversation : bonne calibrés allo ah je congénaires et avoir machin une moins qu'ils donc ça serait se puis leurs par entre mangent
+The target Conversation : voilà elle est rouge c'est une pomme rouge cette pomme a des grands yeux voilà elle a des grands yeux oui exactement plutôt sévères
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : elle est appêtissante cette pomme oui tu ne crois pas moi pas trop elle me donne pas très envie
+
+The predicted Conversation : a message peu hum série les un lien cette la avoir mais y sont cool dans lesquels donc est yeux cascade
+The target Conversation : et on dirait on dirait un super héros cette pomme oui ben je sais pas
+
+The predicted Conversation : on pareil ah donne quand changement y ça gros j'ai yeux comme avec les ils deux pourtant
+The target Conversation : ok alors là c'était une poire aussi avec un visage des yeux et qui semblait un peu perdue et toujours ça fait penser à un personnage d'une pub connue
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : pour la marque Oasis je ne suis pas sûre
+
+The predicted Conversation : fraise bonne au ses plastique quelle rendre y moins comment yeux et encore la moi avoir tu découpés
+The target Conversation : si moi je suis sure oui ça se pourrait
+
+The predicted Conversation : faisait exactement jeune un mais ça pas d'accord tous leurs nouveau les sais avoir autres
+The target Conversation : la poire semble triste ou perdue perplexe elle semble fatiguée oui peut-être juste fatiguée
+
+The predicted Conversation : oui à ressemble du moche ça tu
+The target Conversation : la poire est un peu abîmée ça j'ai pas vu par con- non j'ai pas vu tu ne penses pas c'est une poire pourrie
+
+The predicted Conversation : a local y sont gros hum pourtant ils de cool les allo
+The target Conversation : salut c'est les c'est les c'est une poire c'est une poire dans un piteux état quand même
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : c'est une poire pourrie oui et triste vu que c'est un bonhomme la poire semble triste toute abimée toute triste pardon
+
+The predicted Conversation : t'as a on oui mangue pour donc j'en devrait d'Halloween poings robot et c'est les
+The target Conversation : ça fait de la peine la poire a l'air malade aussi pas faux malade ou alors déprimée
+
+The predicted Conversation : plus pour d'être pourrait mais avoir ça cette yeux hum logique la les par
+The target Conversation : elle est peut-être triste car elle est pourrie c'est possible mais qu'est ce que tu en dis et pourquoi elle est pourrie
+
+The predicted Conversation : a et deuxième mais avoir y cette yeux hum un déformés comme tête la cascade cool les
+The target Conversation : -fin pourquoi elle est abimée elle est pourrie parce qu'elle vient de loin c'est possible qu'est ce que tu en dis c'est possible et du coup elle serait triste de venir de loin
+
+The predicted Conversation : d'être mais avoir exemple cette yeux hum l'air comme ça pomme couleur la les par
+The target Conversation : elle avait pas l'air en forme cette framboise là si c'était une framboise sont passés où nos super héros là
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : j'ai un pauvre fruit fatigué ou- ou alors c'est les super méchants qui viennent se faire battre ils viennent de se faire battre par les super héros non ça a pas l'air d'être exactement la même je me je me suis dit putain ils m'ont mis le meilleur dès le début et là d'un coup @
+
+The predicted Conversation : du bonjour comment ça pas je comme courbés présentables tous -fin en très c'est tu me
+The target Conversation : c'est pas le même principe et déjà ils sont pas faits pareil c'est pas du tout non ben là déjà on est pas ciblé on est plus sur l'image image synthèse je trouve et puis on est plus sur un corps là ou là ou la précédent truc c'était que des visages
+
+The predicted Conversation : framboise on au tout une plafond donne là-dessus ça yeux côté que et moins c'est les le
+The target Conversation : là ils en découpe là ils ont juste collés deux yeux une bouche et c'est ça on aurait dit les pubs pour Oasis là ou Fanta tu sais les ptu-
+
+The predicted Conversation : d'être mais avoir cette yeux hum mouais -fin mûre que la c'est les par
+The target Conversation : ils ont ils ont pris un coup de vieux les pubs pour pour Oasis quoi ça c'est avant la fête ou non c'est après la fête le lendemain matin o- c'est c'est clair en fait c'est la c'est l'Oasis gueule de bois @
+
+The predicted Conversation :  ont bandeaux mais avoir un cette yeux peu donc fram- pomme et ils la triste les
+The target Conversation : alors c'est une c'est une fraise
+
+The predicted Conversation : a message plus du donne pas parce les nous ah cette je tous pense côté légumes important méchante pourtant sale obligé ça donc est
+The target Conversation : de la nourriture d'accord hier donc il y l'air d'avoir au moins un truc commun c'est qu'il y a toujours un truc à manger dans les images ok
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : donc là c'était une fraise fatiguée elle avait pas l'air l'air un peu cabossée c'est ça elle aurait pris des coups par exemple ou
+
+The predicted Conversation : méchants peut-être faisait même si un est-ce tous but de avoir le à une quoi mais l'aubergine dire donc ça comme cas c'est
+The target Conversation : je voyais un peu le boxeur qui descend du ring c'est vrai que ça fait qui après avoir pris des coups elle a pas l'air c'est pas la belle fraise qu'on voit dans le supermarché ou dans la pub
+
+The predicted Conversation : ont peu pas trouves ils les un cette fram- pomme et la triste avoir bandeaux mais voudrait ça yeux
+The target Conversation : ah mais c'était une c'était une fraise non c'était pas une fraise c'était je sais pas moi j'aurais dit une framboise avec des gros trucs tu sais les gros trucs comment ça s'appelle peut-être les grains de la framboise et quand qui grossissent comme si elle avait un
+
+The predicted Conversation : elle plus ça donc un peu c'est les
+The target Conversation : on est retombé sur la fraise du coup toi tu
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : alors je sais pas mais je pense qu'on essaye d'inspirer de la pitié avec ces ces fruits tu penses quoi du fait que les fruits soient abimés et les légumes non
+
+The predicted Conversation : a bonne peu hum encore les un cette la avoir voilà mais y sont bien cool sûr est yeux en
+The target Conversation : y rendent un peu triste quand même c'est ça du coup donc les légumes les légumes sont beaux et les fruits sont pas beaux
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : c'est ben c'est pas logique
+
+The predicted Conversation : donne alors quand ils parce tu me m'a ces de regardent sont avec l'impression mangé ça des comme c'est
+The target Conversation : je sais pas doit y avoir un une [séparaison] une séparation du message peut-être que c'est deux campagnes différentes ah c'est possible parce qu'elles ont pas le même design
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir elles bandeaux y mais qu'ils donc difforme yeux
+The target Conversation : c'est une pomme à l'envers
+
+The predicted Conversation : a du choses mais avoir tu cette yeux hum est en la les restons forme
+The target Conversation : avec les yeux découpés tout ça c'est encore un super héros et cette fois ci je crois que je vois le lequel
+
+The predicted Conversation : faisait un mais des ça entre sais -fin les de sous c'est avoir tu le
+The target Conversation : tu vois les films avec Spiderman oui parce que comme il est comme elle est à l'envers
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : ça pourrait ça pourrait peut-être être ça ah c'est pas bête j'avais pas pensé à ça c'est pas bête
+
+The predicted Conversation : bonne pareil un peu avoir enfin donc tous côté alimentaire l'impression pourtant
+The target Conversation : du coup donc pour l'instant on a on a trois légumes c'est ça oui on a une aubergine
+
+The predicted Conversation : a bonne sent peu hum encore les un cette pomme la avoir voilà machin mais y cool lesquels yeux
+The target Conversation : allo donc ça reste on reste dans la même idée quoi les
+
+The predicted Conversation : pareil fruits tristes d'être pub des un tu abimés se ben comme pesticides ces la pourtant prendre effet
+The target Conversation : et voilà c'est ça c'est pareil on enlève un petit morceau de peau ça dessine ça dessine un visage tout à fait et avec ça on fait on fait un super héros Tortue Ninja
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les effet
+The target Conversation : donc avec l'aubergine par contre l'aubergine et le citron ça a rien à voir c'est pas les trucs qui -fin le non ben c'est Batman et les Tortues Ninjas quoi
+
+The predicted Conversation : faisait vouloir vois un mais donc ça d'accord réfléchi tous pourtant en avoir
+The target Conversation : ah non l'aubergine c'est un légume qu'on mange et que le citron je sais pas trop ce qu'on en fait à part à part dans les cocktails mais les citrons verts ben ça se manger aussi y a des gens qui mangent des citrons
+
+The predicted Conversation : t'as non fruits mangue @ mais mauvais devrait les pomme c'est que la moins l'impression dit
+The target Conversation : ah bon @ d'accord donc on peut m- ben cha- chacun ses goûts moi je déteste ça mais je connais des gens qui en mangent ah ok je pensais même pas que ça se mangeait le citron vert le lime
+
+The predicted Conversation : ont peu ils les un cette m'a fram- pomme et la triste avoir sa bandeaux mais ça yeux car comme
+The target Conversation : elle a l'air un peu bête cette poire parce qu'on dirait qu'elle louche je sais pas moi elle me fait de la peine
+
+The predicted Conversation : donne pas ils couleur les fait d'être de et oui elles fruits nouvelle mais nouvelles tristes des ça humains comme
+The target Conversation : laissé tomber dans une caisse ben c'est peut-être ça le tu vois le truc parce que c'est elle a l'air cabossée comme un fruit qu'on aurait
+
+The predicted Conversation : on a fois eux mais sont sorte hum l'air comme robot ils abîmés qu'est parce triste
+The target Conversation : là les les trois qu'on vient de voir sont clairement différents des trois qu'on avait vu au début donc et déjà c'est des fruits c'est pas des légumes
+
+The predicted Conversation : fraise pareil et bon suis sont yeux comme tous peau la les par
+The target Conversation : ah non ben si y avait la pomme et je pense que c'est y a une idée de fruits pourris et de fruits qui s- qui ont été abîmés et qui
+
+The predicted Conversation : voilà on mais avoir cette yeux pomme la c'est les
+The target Conversation : qui peut-être nous en veulent de pas les avoir pas les avoir de pas consommés oui peut-être après je pense que y a quand même une certaine différence entre eux
+
+The predicted Conversation : ont quoi bandeaux mais avoir un cette yeux peu m'as fram- pomme et ils la triste les tu
+The target Conversation : salut les deux sont de la même pub
+
+The predicted Conversation : aubergine couleur abîmés toi un mais dire les -fin ils de et c'est avoir chapeau
+The target Conversation : ok tu ne penses pas donc c'est une pub pour la production locale
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : je pense c'est une pub pour les producteurs de légumes ok donc c'est une pub française pour les produits français
+
+The predicted Conversation : a bonne hum les été un cette pomme la avoir brillante mais y sont cool donc yeux en super
+The target Conversation : ok qu'est ce que tu en dis oui c'est possible
+
+The predicted Conversation : a message peu hum calibrés déformés série les lien un cette la avoir machin mais y cool dans lesquels est yeux
+The target Conversation : par rapport aux produits étrangers oui ok
+
+The predicted Conversation : refait une d'une t'entends 5 mais avoir essayer cette yeux comme pourtant pomme la seraient les par forme
+The target Conversation : c'est une poire c'est une poire un peu abîmée
+
+The predicted Conversation : une donne qu'ils mais avoir tu cette yeux hum abimés bien sens la c'est les par
+The target Conversation : elle est déformée
+
+The predicted Conversation : a dirais elle la mais tu je tête et avoir chapeau forme
+The target Conversation : l'a pas l'air très abîmée elle est traitée avec des pesticides tu ne crois pas
+
+The predicted Conversation : va suis peut-être ça y yeux de par les autres
+The target Conversation : elle pourrait être naturelle oui en effet
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : c'est une campagne pour les fruits locaux qui ne viennent pas de loin qu'est ce que tu en dis
+
+The predicted Conversation : on à d'être mais avoir truc cette yeux hum d'accord ça -fin la c'est les par
+The target Conversation : salut allo ah tu m'entends donc c'est bien une framboise oui c'est des pros après réflexion
+
+The predicted Conversation : bonne donne sur marche couleur les tu nous on quelle bonjour tous l'image avoir une faut @ là-dessus premier ça yeux Spiderman
+The target Conversation : donc ça veut dire que là c'est on arrive au bout que je me rappelle aussi on avait fait on avait fait quatre fois quatre fois cinq minutes à peu près plusieurs possibilités à mon avis soit c'est une soit c'est une campagne pour c'est ça
+
+The predicted Conversation : aubergine pu donne ça ou un comme chose de grands c'est les
+The target Conversation : pour priviliégier les produits les produits qui viennent de proche et à ce moment là les fruits les fruits abîmés ce seraient les fruits qui viennent de d'autre pays
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : soit ce serait un truc pour privilégier les produits voilà les produits moches cette framboise cette framboise elle est elle est abîmée mais si ça se trouve elle est elle est meilleure que la pomme trop brillante trop belle etcetera ah
+
+The predicted Conversation : on aubergine une n'a y Batman yeux en sur de c'est les tu
+The target Conversation : c'est à dire que dans ces cas là c'est le petit me- le petit message qui serait mis à côté de l'image qui donnerait le voilà qui ferait twister dans un sens ou dans l'autre en fait ça mais bon ça parait compliqué quand même parce qu'elle est très abîmée
+
+The predicted Conversation : légumes refait à sur rendre mais avoir des cette yeux moches pomme et la les par
+The target Conversation : salut c'est peut-être le Joker dans Batman
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : non je pense que tu as tort tu penses à quoi alors elle ressemble aussi à un super héros
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu nets fram- pomme et ils la trouve triste les eh
+The target Conversation : lequel elle ressemble à Batman à Batman c'est pas le cas alors
+
+The predicted Conversation : aubergine oui général fruits qu'on passer ça ok m'a dis de et c'est
+The target Conversation : elle semble déterminée comme la pomme
+
+The predicted Conversation : aubergine elle envie qu'on peut-être ça pas poire la rouge
+The target Conversation : c'est peut-être ça alors
+
+The predicted Conversation : a message peu hum déformés les un lien cette la avoir voilà juste mais y cool dans lesquels yeux
+The target Conversation : du coup là c'est une poire un peu cabossée et
+
+The predicted Conversation : faisait meilleur mignon qu'ils un mais peu regarder sont Tortues tous les déformés de avoir
+The target Conversation : et et en fait au départ je pensais qu'elle était triste mais au final non j'ai l'impression que c'est un petit sourire en coin du coup il semblerait qu'elle soit avinée
+
+The predicted Conversation : ont bandeaux compte mais avoir un cette yeux peu car donc fram- pomme et ils la triste les
+The target Conversation : je vois pas -fin bon tristesse -fin c'est neutre c'est pas si triste moi elle m'avait l'air je sais pas comment dire dépitée peut-être comment
+
+The predicted Conversation : ont donne ils couleur les franchement nous d'être légume avaient la important beaux plastique peut premier qu'ils ça yeux comme
+The target Conversation : oui un peu perplexe dépitée mais pas triste au final perdue aussi comme tu disais oui peut-être ça fait ça fait un gros une grosse différence avec les fruits de la première campagne
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : oui totalement et aussi avec la framboise qui est plus gélatineuse plus d'émotions -fin ah
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : ah et je crois que -fin je sais pas j'ai peut-être une idée où où en fait ça serait les deux côtés
+
+The predicted Conversation : pourquoi Ninja fruits parce pour peut quand peut-être pas premiers qu'il tous c'est moi l'impression
+The target Conversation : tu sais les deux séries d'images mais enfin si c'est une pub pour les enfants elle est vachement compliquée à comprendre déjà pour un adulte donc les deux côtés de la de la même pub mais je sais pas encore dans quel sens il faut la
+
+The predicted Conversation : framboise oui une plus visages si d'être fois donc mais je pense sais tous ils et autres
+The target Conversation : donc après si c'est pour un enfant ben après des fois il suffit de rajouter un mot oui
+
+The predicted Conversation : message jeune peu couleur les faisait trouvé un je comique et triste avoir Ninja mais premiers Tortues moins ne se
+The target Conversation : donc c'est des trucs un peu ambigus là pour le moment si c'est les deux campagnes sont liées je vois pas du tout le message ok j'avais l'idée je parce que dans les trucs que qu'on avait entendu y avait l'idée
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : je me disais d'une part en fait de la production saine locale mais je savais pas encore quel était le bon le côté positif parce que les gentils ceux qu'il faut manger c'est les premiers ou
+
+The predicted Conversation : ont bandeaux suis mais avoir un cette yeux peu mûre fram- pomme et ils la triste les
+The target Conversation : on a déjà vu cette poire c'est une poire pourrie elle est un peu pourrie
+
+The predicted Conversation : plus connais d'être mais avoir cette yeux hum mouais -fin de la nous les par le
+The target Conversation : elle a des bras et des jambes ah oui c- c'est comme une personn- personnification
+
+The predicted Conversation : message aussi passer visage enfants un mais peu premiers sont je derrière les animé vu avoir super
+The target Conversation : c'est ça je pense d'accord et toi ça te fait penser à quelque chose d'autre
+
+The predicted Conversation : on la quoi des pas yeux qu'elle les couleur et parce avoir choses le
+The target Conversation : elle est déformée des défor- elle a pas l'air en forme elle n'a pas l'air contente c'est vrai elle a une expression alors
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : oui elle est dessinée on dirait ah oui c'est une image modélisée
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : 
+
+The predicted Conversation : a tristesse peu pas j'ai yeux tous sais et parce c'est les tu
+The target Conversation : c'est une poire jaune poire jaune qui a l'air naturelle c'est une poire oui ah oui
+
+The predicted Conversation : message dans plus d'être mais avoir cette yeux hum je mouais -fin la les par
+The target Conversation : c'est une poire moche tu ne penses pas non elle a l'air naturelle oui ah oui
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : c'est une poire avec des bras elle a des jambes qu'est ce que t'en penses
+
+The predicted Conversation : donne mais avoir peu cette yeux pomme la c'est les
+The target Conversation : ça change rien à sa qualité de poire
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu difforme donc fram- pomme et ils la en triste les
+The target Conversation : mais j'ai trouvé je pense pour le dis moi j'y ai réfléchi je crois que c'est Batman
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : d'accord t'as t'avais déjà bien trouvé pour la pomme en la en la re regardant c'était bien Spiderman complètement
+
+The predicted Conversation : voilà on oui donne suis ça pas tous locaux en encore et moins les découpés
+The target Conversation : je te dis je regardais pas trop forcément les les dessins animés à la télé mais les films de super héros j'en ai vu quelques uns c'est vrai que j'y aurais pas pensé du tout bravo merci
+
+The predicted Conversation : à un mais avoir tu cette yeux hum dire parlé sais ça la c'est les par
+The target Conversation : oui peut-être en même temps l- la pomme peut-être mais Batman ça fait partie du personne que d'être un peu
+
+The predicted Conversation : a à pourri as du pour un ça pas raison chose poings c'est tu
+The target Conversation : un peu rustre c'est vrai c'est vrai alors que c'est vrai que Spiderman il est sympa lui par contre donc exactement alors que ba- Batman une fois qu'il a enfilé son masque il devient un peu méchant c'est vrai
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais qu'ils donc difforme yeux
+The target Conversation : salut pour 10 je m'appelle Fuhrat
+
+The predicted Conversation : avait ça un disait d'idée dire tous bien et ils la c'est le
+The target Conversation : c'est l'état qui te paye un peu l'état qui l'a créé oui c'est possible ah l'état elle est moche parce qu'elle vient de loin l'état il a mis en place ah oui
+
+The predicted Conversation : ont bandeaux suis mais avoir un cette yeux peu mûre fram- pomme et ils la triste les
+The target Conversation : et c'est peut-être une campagne pour favoriser les fruits locaux c'est par état d'accord oui
+
+The predicted Conversation : ont peu mûre ils les on fait héros un cette je fram- pomme et la triste avoir à une bandeaux mais ça yeux super
+The target Conversation : est-ce qu'on peut revenir au sujet ben oui ben c'est l'état qui finance les fruits locaux avec des * sur la campagne oui en effet est ce que Birgit est en thèse CIFRE
+
+The predicted Conversation : être d'être mais avoir ça cette yeux hum logique pommes la les par
+The target Conversation : non pas du tout ah dommage @ auquel bon ben c'est pas évident du tout au niveau de la communication quand on voit les fruits qui sont je pense
+
+The predicted Conversation : voilà oui là une elle @ quand ça est fruit mûre de c'est
+The target Conversation : oui ok on a un demi citron c'est ça alors je t'entends pas très bien
+
+The predicted Conversation : on faisait vouloir Ninja l'avais retourné un mais combattent réfléchi tous tête la Oasis avoir sera
+The target Conversation : a- apparemment elle m'entend pas beaucoup c'est moi est ce que si je parle plus fort ça va mieux s'ils pouvaient monter un peu le volume du son ça serait bien
+
+The predicted Conversation : a message peu hum série les un cette la avoir machin mais y cool dans lesquels donc yeux cascade
+The target Conversation : oui là c'est un peu mieux ok d'accord on dirait un demi citron vert cette fois-ci oui c'est sûr avec encore une fois des yeux qui ont été découpés là oui et là ça ressemble à un cagoulé -fin c'est cagoulé
+
+The predicted Conversation : ils couleur les on qu'on de la et triste toi à une sont abandonnés * auraient qu'ils ça puis nets
+The target Conversation : ah ça ressemble beaucoup à comment ils s'appellent les Tortues Ninja ah oui moi j'aurais dit le masque de Zorro mais oui les Tortues Ninja ça rentre peut-être mieux
+
+The predicted Conversation : et alors @ publicité pas cette yeux avec sur en la les
+The target Conversation : ah les deux et moi j'avais l'impression que ça ressemble vraiment à cette -fin tu sais le dessin animé là ou le film je sais plus il y a des petites tor- Tortues Nin- ninjas ah c'est possible
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais vitamines mouvement non donc ça difforme yeux en
+The target Conversation : le citron vert est rigolo on dirait un ninja salut
+
+The predicted Conversation : message exactement donne ces mais se ceux pense sur de et c'est pourtant
+The target Conversation : ah oui Tortue Ninja tu ne penses pas oui un ninja j'avais pas pensé à la tortue mais effectivement un ninja c'est sûr je trouve qu'elle ressemble à une Tortue Ninja
+
+The predicted Conversation : à elle lumière donne assez mais peu y j'ai d'autres que dire sur de été
+The target Conversation : oui je crois aussi il a l'air gentil il a l'air tout doux et on dirait aussi un peu les pubs des fruits d'Oasis il n'est pas méchant comme les deux autres non
+
+The predicted Conversation : sale Ninja l'autre couleur moins toute et ils qu'est moi les
+The target Conversation : plus acide normalement il semble fiable oui c'est vrai qu'on pourrait lui faire confiance en tout cas
+
+The predicted Conversation :  ont bandeaux mais avoir un cette yeux peu comme fram- pomme et ils la triste les
+The target Conversation : il a l'air plus sympathique et abordable que les autres n'est ce pas oui et beau tu as une idée du message
+
+The predicted Conversation : non sale pareil fais elles donne @ y OGM ceux Tortues dit les bien que la triste pourtant
+The target Conversation : la fraise bagarreuse
+
+The predicted Conversation : fruits le qu'on alors peut quand peut-être sont est plutôt sauf dire non parce c'est les que
+The target Conversation : c'est peut-être une campagne pour les fruits locaux ah oui peut-être mais en peut-être je sais pas le robot il a commencé à dire
+
+The predicted Conversation : a peu hum déformés série les été un cette la avoir brillante mais y avec non cool donc yeux
+The target Conversation : c'est possible du coup en fait ça se pourrait et les premiers c'est des super héros parce que c'est des locaux
+
+The predicted Conversation : fraise exactement à la suis te mais son cette yeux d'accord chose et de par c'est les toi
+The target Conversation : ça serait ça je pense c'est le plus plausible tu crois qu'ils doivent aller ensemble ou qu'ils hésitent entre les deux
+
+The predicted Conversation : on Ninja jeune poser dessin un mais peu ça puis Tortues tous les de cas avoir prendre
+The target Conversation : je sais pas je sais pas mais ils devraient le faire ensemble donc la carotte et le baton
+
+The predicted Conversation : autre ? beaux abîmés pour eux sont enfants hum comme premier tous côté ils croyais et les
+The target Conversation : allo est ce que tu m'entends alors je t'entends bon c'est super et est ce qu'on a vu la même chose c'était une aubergine
+
+The predicted Conversation : d'être mais avoir truc cette yeux hum ça comme puis -fin la les par
+The target Conversation : d'accord donc c'était une aubergine on aurait une tête une tête de Batman là ok ils m'ont dit que c'était la même chose qu'hier mais c'est pas les mêmes images mais ç- ça fait rien
+
+The predicted Conversation : pareil contraste ça triste yeux qu'il l'air tous les comme ils couleur qu'est déjà l'impression pourtant
+The target Conversation : ah les trucs découpés je me demandais ce que c'était faudra que je lève un petit peu le ton pour que je t'entende un petit peu mieux et d'accord super * je vais rapprocher un peu le micro alors comme ça ira bien ah voilà ah c'est parfait c'est parfait
+
+The predicted Conversation : faisait tout fruits jeune @ bonjour texte un mais peu l'ordinateur ça des déprimée comme et avoir
+The target Conversation : la tête de Bat- donc ce qui était d'accord c'était le visage qui était découpé dessus je me demandais pourquoi ils avaient enlevé la peau comme ça mais c'était pour tu sais moi ça m'a fait penser à comment tu peux comment tu peux faire manger des légumes à des gamins
+
+The predicted Conversation : avait à plastique lié ça ou sont sorte déformés tous clairement que bio Fuhrat c'est les
+The target Conversation : tu sais pour rendre le truc fun @ non mais c'est ben carrément parce que le super héros et le *
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais auraient qu'ils donc difforme yeux
+The target Conversation : allo ça marche ça marche nickel ah bon ben c'est bon alors c'est reparti par contre j'ai oublié ce que je voulais dire tout à l'heure parce que j'avais un truc avec cette framboise et
+
+The predicted Conversation : t'as avait bras donne quand d'être y des ou @ triste qu'il personnellement ils couleur l'impression dit super
+The target Conversation : voilà j'ai oublié c'était l'idée qu'on était on était plus du tout dans le même
+
+The predicted Conversation : ont peu ils les être un cette fram- pomme et la triste avoir bandeaux mais sais voudrait ça yeux c'est
+The target Conversation : complètement je crois que c'est je crois que c'est ça qu'il se passe en fait y a des y a des séries d'images et dans une dans une dans un truc là dans une session on voit toute une série puis après on en voit une autre
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : donc là c'était donc une framboise et là il c'est différent c'est plus du tout découpés c'est ils ont juste collés
+
+The predicted Conversation : la et peut-être mais avoir se comme fruit peau ils légumes c'est les
+The target Conversation : sur Paint ils lui ont mis un petit visage là et puis des des ah la je perds mes mots des pieds des jambes des membres
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : c'est peut-être en fait peut-être le sens si on considère que les deux séries sont de la même campagne
+
+The predicted Conversation : on oui général une as héros fois ça mais se je premier tous -fin c'est tu
+The target Conversation : si on mange des fruits frais on est plus un super héros et si on mange pas des fruits frais ben déjà mouais un libre le sens serait que
+
+The predicted Conversation : existe peut-être moins pas en que bio seraient c'est les
+The target Conversation : voilà exactement c'est dommage ils sont tristes les fruits et ils sont tristes quand ils vont à la poubelle ah ben voilà yes je pense que c'est ça hop en tout cas y a un truc de cohérent
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : donc ça serait les fruits frais c'est bon quand ils pourrissent c'est con grave @ je vais me recycler c'est ça
+
+The predicted Conversation : dirais t'entends par mais avoir pas cette yeux je sais pomme la les tu
+The target Conversation : je vais aller faire je vais aller faire slogan de pub comme Beigbeder c'est ça beh ça marche ça faudrait peut-être voir
+
+The predicted Conversation : refait à sur mais avoir ok cette yeux des est bien mode pomme et en la les par
+The target Conversation : ok
+
+The predicted Conversation : faisait ont contre jeune pub un mais donc se pomme et ils la Oasis avoir effet
+The target Conversation : qui a l'air beaucoup moins triste que la framboise comme tu as dit elle serre les poings peut-être qu'elle se bat contre quelque chose
+
+The predicted Conversation : on tout fruits ses pour vrai mais y donc plutôt les cas c'est avoir
+The target Conversation : et du coup un peu comme la première série oui et ça se trouve on nous les a pas montré dans le bon ordre et en fait y a une transition entre les les fruits et les légumes qu'on a eu
+
+The predicted Conversation : a bonne alors campagne peut-être hum encore les même cette d'accord que la avoir elles mais y cool lesquels première ça ou yeux c'est
+The target Conversation : tu vois oui je vois c'est peut-être possible -fin y a une grosse différence mais peut-être que y a tout un spectre et que la fraise ce serait la première et
+
+The predicted Conversation : autres refait à mais avoir des cette yeux robot mode pomme et la les par le
+The target Conversation : je sais pas moi du coup dans ces cas la poire la dernière vu que c'est une victime oui c'est vrai on a l'impression qu'elle frime un peu cette fraise
+
+The predicted Conversation : fait à la quiu super ça mais yeux comme poire de qu'est c'est les allait
+The target Conversation : alors on a re la photo de la pomme en Spiderman oui
+
+The predicted Conversation : on envie aussi donne ça mais vais de et parce c'est tu
+The target Conversation : quel serait le message parce que y a pas d'écritures autour y a que l'image et et moi j'arrive pas à savoir pour
+
+The predicted Conversation : l'autre pourrais devait battre fois ou avoir train sinon yeux disait ils que la c'est les
+The target Conversation : oui exactement c'est compliqué de savoir ce que ça pourrait dire à qui c'est adressé et oui en effet qui adresse le message aussi
+
+The predicted Conversation : a à lesquels bon brillante vu mais avoir y cette yeux hum donc sur série la cool les
+The target Conversation : oui bien sûr t'en penses quoi toi je ne sais pas c'est une campagne contre les pesticides
+
+The predicted Conversation : on oui pareil elle quand comment changement ça y yeux mais pourtant que grands les
+The target Conversation : qu'est ce que t'en penses ben les super héros sont en bon état ah oui est ce que ça serait contre les pesticides alors
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais donc difforme yeux en
+The target Conversation : oh il me il me tue ce Fuhrat il est excellent de quoi ben ce Fuhrat il est excellent oui pourquoi et parce qu'il me dit que tu sais elle est m- ils sont moches et ils sont pas
+
+The predicted Conversation : a il maintenant fruits plus donc pas est loin de et c'est les que
+The target Conversation : ils vont pourrir et on a pas envie de les manger et du coup il me dit tu crois que c'est une campagne pour les pesticides j'ai dit ah ben oui si c'est la campagne pour les pesticides c'est réussi @
+
+The predicted Conversation : pu pas seraient les faisait un tous quelque -fin avoir pareil quoi enfants mais comics comme réfléchi c'est super
+The target Conversation : c'est lui qui l'a dit pour les pesticides ah ben c'est super alors en fait on était parti angéliques @ non mais c'est sérieux quoi mais non en fait c'est Monsanto
+
+The predicted Conversation : trop peu l'air bords perdue les on l'autre d'être un -fin que la et fruits eux mais c'était l'impression elle semble combattent c'est congénaires
+The target Conversation : c'est pour avoir les pesticides les graines bien formatées les fruits bien tous pareils ah c'est ça regardez nos fruits comme ils sont beaux quoi
+
+The predicted Conversation : oui fait suis un mais peu ça comme se et c'est avoir
+The target Conversation : alors que ça serait contre intuitif en fait on était trop on était parti avec agriculture biologique agriculture locale bon après c'est Fuhrat c'est Fuhrat qui dit ça il a pas de côté humain peuchère on peut pas lui en vouloir
+
+The predicted Conversation : hum ils nourriture pub j'ai m'a tous et refait une fruits dire jour locale pourtant * effectivement des exemple se comme leurs par c'est rapport
+The target Conversation : ah là on voyait une framboise un peu triste oui
+
+The predicted Conversation : plus d'être fois mais avoir est cette yeux hum mouais -fin la les par
+The target Conversation : non avec des tout petits yeux et elle a une bouche étroite
+
+The predicted Conversation : ont peu ils les dû un l'ordinateur m'a cette fram- pomme et la triste avoir bandeaux mais ça yeux
+The target Conversation : elle a des genoux courbés c'est vrai un peu affaissée sur elle même ah oui
+
+The predicted Conversation : ont peu ils les un cette fram- pomme et la triste avoir bandeaux y mais donc difforme yeux en
+The target Conversation : elle est un peu pourrie oui qu'est ce que t'en penses ben je pense que c'est une framboise pourrie après je sais pas le message qu'elle veut véhiculer
+
+The predicted Conversation : il a étroite oui suis assez aux ça y yeux sur la les par
+The target Conversation : mais elle est peut-être triste car elle est pourrie oui c'est vrai elle devient triste parce qu'elle est pourrie
+
+The predicted Conversation : pareil suis changement y j'ai yeux comme pourtant poire la les par
+The target Conversation : c'est une fraise oui elle a l'air assez vénère c'est ses bras comme ça
+
+The predicted Conversation : on faisait Ninja deuxième un mais peu c'était Tortues tous les Oasis tête en la moins avoir forme
+The target Conversation : et comme ça enfin en e- elle a une expression on dirait qu'elle va qu'elle s'énerve qu'elle va frapper quelqu'un c'est ça j'ai pas eu beaucoup
+
+The predicted Conversation : a pourrais apparemment les contre font tous -fin de et avoir pareil quoi y pourtant ça donc OGM yeux puis nets
+The target Conversation : quasi sûre qu'elle avait les poings fermés oui elle avait les poings fermés et puis elle avait le regard oui c'est un petit peu énervé quoi
+
+The predicted Conversation : de les
+The target Conversation : avec les pupilles vers le haut moi je moi je dirais un air de défi peut-être exact un air de défi par contre elle est abîmée aussi
+
+The predicted Conversation : a l'air voir parce tu fait être un pense que et la mais disait peau fraise ça des yeux poings en c'est
+The target Conversation : donc entre la framboise d'Oasis qu'a l'air assez moche et la fraise énervée qui a l'air abîmée est ce que tu penses qu'il y a une signification entre les deux
+
+The predicted Conversation : là une beaux donne vraiment y ça pas sinon yeux m'a sais sur de qu'est c'est
+The target Conversation : tu m'entends on a eu on a on a vu la même image normalement c'était
+
+The predicted Conversation : ont bandeaux mais avoir un cette yeux peu -fin donc fram- pomme et ils la triste les
+The target Conversation : l'aubergine à l'envers là -fin à l'envers je sais pas si c'est à l'envers à l'endroit donc ben déjà que -fin t'as vu elle avait des trucs découpés ça dessinait un visage non le
+
+The predicted Conversation : ont quand peu ils les un cette m'a fram- pomme de et la triste avoir bandeaux mais dans ça yeux comme
+The target Conversation : on aurait dit Batman c'est ça Batman t'as l'impression c- je crois que c'était ça qu'on avait qu'on avait dit aussi hier donc c'est un truc qui a à voir avec
+
+The predicted Conversation : fraise exactement à une truc ça un peu yeux peau série la parce cause les tu
+The target Conversation : avec soit les super héros soit avec les légumes ou je sais pas
+
+The predicted Conversation : voilà machin refait une d'une ceux-ci t'entends mais avoir cette yeux pourtant pomme la les
+The target Conversation : est ce qu'ils ont découpés elle est hyper jolie l'aubergine c'est un des trucs très normal -fin je sais pas elle brille elle a pas de -fin c'est un truc parfait quoi comme si ça avait été dessiné par ordinateur
+
+The predicted Conversation : bonne ont la font ça mais donc m'a yeux poings comme p- ils couleur et triste avoir tu
+The target Conversation : bon c'est parti * hey ils a- ils j'a- j'avais eu une autre idée à proposer aussi je sais pas ce que ça vaut mais c'est pour essayer de comprendre
+
+The predicted Conversation : guillemets enfants ça puisque ok pourtant les avais et dedans qu'est moi parce dit
+The target Conversation : séries qui doivent amener à la au même message ils essayent de voir laquelle avec laquelle on comprend et du coup là l'IA m'a ressorti que c'était contre les pesticides peut-être c'est deux
+
+The predicted Conversation : a dans fruits un mais y des yeux donc avec en et avoir effet
+The target Conversation : peut-être que c'est les plus forts parce que du coup les fruits sont forts parce que
+
+The predicted Conversation : ont peu ils les un cette fram- -fin pomme et la triste avoir à bandeaux y mais donc yeux en super
+The target Conversation : et ou alors ils sont forts parce que ils ont eu plein de pesticides c'est ce que je disais non bon ils sont *
+
+The predicted Conversation : était peut-être ils les nickel que et colère moins il auraient ou donc se comme pesticides en cas c'est
+The target Conversation : si ça représente les * je sais pas ou alors c'est le contraire des est ce qu'on peut avoir l'antithèse les beaux c'est les s- mais ça serait pas les super héros en tout cas
+
+The predicted Conversation : ont fruits quelle donne y sont de tous -fin ils encore et moins les leur forme
+The target Conversation : salut alors ce citron
+
+The predicted Conversation : bonne envie donne @ auraient ça poings c'est avoir toi le
+The target Conversation : oui il n'est pas aussi agressif que les autres il est pas quoi il n'est pas aussi agressif que les autres à part qu'il est sympathique on sait pas trop quoi dire quoi donc
+
+The predicted Conversation : a peu hum calibrés déformés les lien un truc cette la avoir sont mais y cool lesquels est yeux
+The target Conversation : ah aussi il semble fiable il a l'air gentil c'est ça non il n'est pas méchant comme les deux autres
+
+The predicted Conversation : vie met mais avoir cette yeux hum l'idée bien comme pomme et la les par
+The target Conversation : je comprends que c'est une comparaison par rapport aux autres mais je comprends pas la ce qui dit de la comparaison mais pareil que les autres qu'est-ce que tu en penses
+
+The predicted Conversation : être peut d'être mais avoir truc cette yeux hum d'accord ça la c'est les par
+The target Conversation : je crois un niveau dans le champ de la caméra peut-être que ça m'aide à mieux comprendre je sais pas
+
