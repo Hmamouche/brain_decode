@@ -129,17 +129,7 @@ if __name__ == "__main__":
               
 
         total_count = total_count / ( len (full_targs) * 5)
-        # total_count = 0
-        # for i, sentence in enumerate(predic):
-        #     # Initialize a count for each sentence
-        #     count = 0
-        #     # Loop through each word to count
-        #     for word in context:
-        #         # Add to the count the occurrences of the word in the sentence
-        #         count += sentence.lower().split().count(word.lower())
-        #     total_count += count
-
-        #print (total_count)
+ 
 
 
         total_bleu = 0
@@ -148,13 +138,8 @@ if __name__ == "__main__":
         total_jaccard = 0
         nlp_lpips = LPTS()
         smoothie = SmoothingFunction().method1
+        
         for pred, targ in zip(full_preds, full_targs):
-
-          # print ([pred], [targ])
-          # exit ()
-          #bleu_score = bleu.compute(predictions=[pred], references=[[targ]])["bleu"]
-          # print (bleu_score)
-          # exit ()
           bleu_score = sentence_bleu([targ.split()], pred.split(), smoothing_function=smoothie)
           total_bleu += bleu_score
           jaccard_score = jaccard_similarity(targ, pred)
@@ -168,10 +153,6 @@ if __name__ == "__main__":
         final_word_overlap = total_word_overlap / len(full_preds)
         final_lpips = total_lpips / len(full_preds)
 
-        '''print (final_bleu)
-        print (final_jaccard*100)
-        print (final_word_overlap)
-        print (final_lpips)'''
 
         f.write ("%s ; %s ; %s ; %s ; %s; %s\n"%(filename.split('.txt')[0], final_bleu, final_jaccard*100, final_word_overlap, final_lpips[0].cpu().detach().numpy(), total_count))
     f.close()

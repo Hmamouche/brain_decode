@@ -6,6 +6,9 @@
 python install -r requirement.txt
 ```
 
+## Raw and Processed interaction data
+* Download the data Raw and Processed from the following link and put in the main folder
+
 ## Tools
 * Download vicuna-7b-v1.3 from https://huggingface.co/lmsys/vicuna-7b-v1.3 in the folder llm
 * Download CLIP: git clone https://github.com/openai/CLIP
@@ -22,7 +25,6 @@ train.py [-h] [--nb_seeds NB_SEEDS]
                 [--model_name {Transformer,CNNTransformer,DuplexTransformerConv,BipartiteTransformerConv,DeconvBipartiteTransformerConv}]
 
 Arguments:
-  -h, --help            show this help message and exit
   --nb_seeds NB_SEEDS, -ns NB_SEEDS
                         Number of seeds to execute.
   --model_name {Transformer,CNNTransformer,DuplexTransformerConv,BipartiteTransformerConv,DeconvBipartiteTransformerConv}
@@ -34,7 +36,6 @@ test.py [-h] [--nb_seeds NB_SEEDS]
                [--model_name {Transformer,CNNTransformer,DuplexTransformerConv,BipartiteTransformerConv,DeconvBipartiteTransformerConv}]
 
 Arguments:
-  -h, --help            show this help message and exit
   --nb_seeds NB_SEEDS, -ns NB_SEEDS
                         Number of seeds. Must the same value used in training
   --model_name {Transformer,CNNTransformer,DuplexTransformerConv,BipartiteTransformerConv,DeconvBipartiteTransformerConv}
@@ -46,14 +47,25 @@ Arguments:
 To train and test Multimodal LLMs:
 
 ```bash
-python  mllm_frmi_txt.py
+python trainer.py [-h] [--batch_size BATCH_SIZE]
+                  [--model_name {MllmBrainToText,MllmBrainToTextV2}] [--test]
+                  [--retrain] [--starting_epoch STARTING_EPOCH]
+                  [--save_iters SAVE_ITERS] [--epochs EPOCHS]
+                  [--saved_checkpoint SAVED_CHECKPOINT]
+
+Arguments:
+  --batch_size BATCH_SIZE
+  --model_name {MllmBrainToText,MllmBrainToTextV2}, -m {MllmBrainToText,MllmBrainToTextV2}
+                        Name of the model to train.
+  --test                test the model
+  --retrain             retrain from existing checkpoint
+  --starting_epoch      starting epoch in case of retrain is True
+  --save_epochs         number of epochs before saving the checkpoint
+  --epochs              number of training epochs
+  --saved_checkpoint    name of the checkpoint output file
 ```
 
-And for the version that includes image in the input:
 
-```bash
-python  mllm_image_frmi_txt.py
-```
 
 
 ## Evaluation / Benchmarking
