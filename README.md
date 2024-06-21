@@ -7,7 +7,7 @@ python install -r requirement.txt
 ```
 
 ## Raw and Processed interaction data
-* Download the data Raw and Processed from the following link and put in the main folder
+* Download the raw and processed data from the following link and put in the main folder: https://drive.google.com/file/d/1sfGm9Ytdir4c9a6rGioZhGu070H5v0f0/view?usp=drive_link
 
 ## Tools
 * Download vicuna-7b-v1.3 from https://huggingface.co/lmsys/vicuna-7b-v1.3 in the folder llm
@@ -62,7 +62,7 @@ Arguments:
   --starting_epoch      starting epoch in case of retrain is True
   --save_epochs         number of epochs before saving the checkpoint
   --epochs              number of training epochs
-  --saved_checkpoint    name of the checkpoint output file
+  --saved_checkpoint    name of the checkpoint of the trained model in case of 'retrain' or 'test' is True
 ```
 
 
