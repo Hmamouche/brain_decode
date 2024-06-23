@@ -1,0 +1,500 @@
+The predicted Conversation :c'est une aubergine je sais pas si j'ai dit tout ce que il y avait à dire dans cette histoire mais ils sont bons pour vous dó
+The target Conversation :bonjour du coup vu j'ai déjà eu cette image je redis la même chose c'est une aubergine
+The predicted Conversation :c'est une aubergine moi je crois que ça peut être la mouture de l'aube-moi elle ressemble à batman ou alors
+The target Conversation :j'avais pas compris moi je crois que c'est une aubergine ah oui je pense aussi que c'est une aubergine pardon c'est une aubergine
+The predicted Conversation :tu as une idée du message okay mais pas pour moi je vois encore bien les fleurs
+The target Conversation :comme batman elle ressemble à batman et oui exactement et
+The predicted Conversation :c'est une aubergine elle ressemble à batman oui exactement tu as une idée du message ça peut être una pub pour manger plus de légumes
+The target Conversation :du coup tu as une idée du message de faire aimer les fruits et les légumes aux enfants surtout qu'en général ils aiment pas trop les aubergines
+The predicted Conversation :tu as une idée du message ça peut être una pub pour manger plus de légumes oui
+The target Conversation :possible ou alors pour faire passer quelque chose de pas sain en quelque chose de sain je ne sais pas montrer
+The predicted Conversation :what do you think this picture
+The target Conversation :c'est un citron
+The predicted Conversation :qu'est ce que t- je pense pas c'est un demi citron
+The target Conversation :c'est un demi citron oui il ressemble à un ninja
+The predicted Conversation :c'est un demi citron - non il ressemble à un ninja
+The target Conversation :qu'est ce que t'en penses c'est une tortue ninja oui exactement
+The predicted Conversation :oui exactement il n'est pas méchant comme les deux autres peut-être
+The target Conversation :il n'est pas méchant comme les deux autres ça on en sait rien peut-être
+The predicted Conversation :oui exactement il n'est pas méchant comme les deux autres peut-être qu'est ce que tu en dis
+The target Conversation :qu'est ce que tu en dis il combat la mauvaise nourriture avec les autres
+The predicted Conversation :la framboise calva a l'air un peu fatiguée
+The target Conversation :elle a l'air boursoufflée la framboise un peu malade comme si elle avait une maladie de peau ou de
+The predicted Conversation :like the pear on dirait la framboise de la pub oasis mais en plus fatiguée
+The target Conversation :elle semble fatiguée oui elle est comme la poire et elle dégouline elle est toute on dirait la framboise de la pub oasis mais en plus fatiguée
+The predicted Conversation :quelqu'un l'a frappée cæsa qui est la framboise de la pub
+The target Conversation :elle est pas appêtissante elle est elle a l'air collante elle a l'air flasque et molle
+The predicted Conversation :peut-être que quelqu'un l'a frappée ou peut- être qu'elle a été vendue il est faitça de la phrase sa forme célibataire mais en plus fatiguée
+The target Conversation :peut-être que quelqu'un l'a frappée elle est pourrie parce qu'elle vient de loin le non les framboises viennent pas spécialement de loin moi je pense pas une distance je pense à
+The predicted Conversation :pourrie parce que elle vient de loin et qu'elle est envoyée ici à Israël peut-être ou bien du monde qui la ramène pas cria
+The target Conversation :qu'est ce que t'en penses comme si elle avait fondue au soleil je suis d'accord
+The predicted Conversation :pour mettre dans la même ligne d'écoute les pêches et le poisson, l'éponge au milieu en fait me rappelle un peu une
+The target Conversation :je crois que j'ai compris le but de l'expérience
+The predicted Conversation :ça fait du coup mais voilà qui est la représentation le plus grimace ou plutôt monoché ? Du reste
+The target Conversation :après on me remontre l'image du coup j'ai l'impression que c'est batman alors que si on me la si on me la remontre dans quelques jours que on essaye de me glisser une idée à la tête
+The predicted Conversation :là je t'emportes pas tu peux viander un peu plus
+The target Conversation :je me dirais oh c'est vrai que ça ressemble à batman alors qu'au début j'ai pas du tout pensé à batman en voyant cette aubergine mais maintenant j'a- j'ai j'arrive pas à la voir autrement qu'avec le visage de batman
+The predicted Conversation :oui elle ressemble aussi à un super héros
+The target Conversation :non je pense je ne suis pas sur tu n'es pas d'accord je ne sais pas est ce que toi maintenant quand tu vois cette aubergine
+The predicted Conversation :elle ressemble aussi à un super héros oui et ce n'est pas toujours agréable cette personne est cochette mais peut-être que c'est une question d'image -fin qui fait penser to the end is not over yet
+The target Conversation :elle ressemble aussi à un super héros exactement et c'est que maintenant que je le vois avant j'aurais pas dit
+The predicted Conversation :c'est vous qui avez
+The target Conversation :c'est toujours notre framboise de tout à l'heure elle a elle a toujours son air triste
+The predicted Conversation :oui c'est la pas de bras non dégarnis pardon et si on sait l'histoire derrière cette émotion négative voyeuriste peut-être ?
+The target Conversation :du coup ça inspire encore plus de compassion tu sais tu te dis putain la pauvre on dirait qu'elle a raté sa vie et en plus elle a pas de bras puis j'ai remarqué aussi que on dirait qu'elle a pas de bras
+The predicted Conversation :elle est ah c'est la framboise abimée et handicapé qui se ferait maltraitisée par les autres
+The target Conversation :oui pardon @ exactement ok du coup elle est ah c'est la framboise abimée et handicapée qui se ferait maltraitée par les
+The predicted Conversation :ils sont pas très agréables quoi c'est vrai ces jours-là ah oui il ont l'air des maltraités de la nature super héros finalement
+The target Conversation :les autres je suis sure que ça doit être ça et du coup en fait ce serait l'idée que les super héros finalement c'est plutôt des super vilains
+The predicted Conversation :en fait ce serait l'idée que les super héros finalement c'est plutôt des super vilains oui ah bon citron est le mot juste
+The target Conversation :ah ok du coup en fait le citron ce serait l'exception je pense celui qu'on aimait bien là tout à l'heure le robot il m'a dit que il m'a dit tiens peut-être que le citron c'est une pub pour les enfants tu sais pour
+The predicted Conversation :à la cuisine pour les  j'ai pas trop d'idées ah ben oui, on peut dire
+The target Conversation :j'ai pas trop d'idées c'est vrai que ça peut être pour les enfants comme il a dit le robot
+The predicted Conversation :pour que les enfants mangent plus de fruits et de légumes ça serait le pantin visuel du cinq fruits et légums
+The target Conversation :pour les ah ben ça c'est pour que les enfants mangent plus de fruits et de légumes de légumes ça serait le pendant visuel du 5 fruits et légumes par jour ah
+The predicted Conversation :ils sont en train de faire du bonne chose qu'ils vont apporter des fruits et légumes dans la vie quotidienne mais c'est un peu comme ça qui fait changer les super héros par rapport à ce que l'on voit habituellement sur les boissons au gaz
+The target Conversation :possiblement en plus ils ont l'air bien aseptisés quoi bien tout clean tout bien comme les costumes des super héros un peu bien colorés et nets o- ok
+The predicted Conversation :peut-être un peu moins ouais donc ça ça fait quand même enfant hein couleurs vives qui brillent
+The target Conversation :c'est vrai que les super héros c'est assez c'est assez un peu comme ça quoi surtout ceux là aseptisés enfin de souvenir les tortues ninjas peut-être un peu moins couleurs vives
+The predicted Conversation :des corps sains super héros ben moi ça retombe un peu sur un truc qui m'avait posé problème au début c'est le citron vert mais bon imaginons que c'est pour
+The target Conversation :ben moi ça retombe un peu sur un truc qui m'avait posé problème au début c'est le citron vert mais bon
+The predicted Conversation :oui bien sûr et ils sont plus agits comme il a été trituré
+The target Conversation :alors là on avait une poire qui est fatiguée oui
+The predicted Conversation :oui bien sûr couleur du fruit peut être aussi pas tout à fait sa forme était plutôt
+The target Conversation :oui je crois aussi le fait que ses yeux les yeux sont pas de la même taille oui bien sûr elle donnait pas trop envie d'être mangée
+The predicted Conversation :elle a une bouche étroite ou bien non c'est possible voilà je pense aussi à la photo des
+The target Conversation :ils étaient plutôt tristes elle a une bouche étroite aussi
+The predicted Conversation :elle a des yeux qui sont tristes oui je crois donc ça peut être pour les suites de la fatigue que ce soit fait en couleur rouge et puis qu'on voit pas si c'est une poudre eller non mais plutôtqu'elle semble fatiguée parlant, d'accord
+The target Conversation :oui c'est possible oui et elle semble fatiguée oui voilà
+The predicted Conversation :elle semble fatiguée she has a tired look oui
+The target Conversation :fatiguée elle n'a pas l'air contente non plus n'est ce pas oui c'est ça
+The predicted Conversation :alors ça c'est pour essayer de comprendre peut-être enfin je sais pas si c'était intentionnel ou non mais ils sont alignés comme les deux séries doivent amener à la au même message
+The target Conversation :bon c'est parti hey ils a- ils j'a- j'avais eu une autre idée à proposer aussi je sais pas ce que ça vaut mais c'est pour essayer de comprendre
+The predicted Conversation :c'est pour essayer de comprendre peut-être c'est deux séries qui doivent amener à la au même message oui je pense que c'-
+The target Conversation :séries qui doivent amener à la au même message ils essayent de voir laquelle avec laquelle on comprend et du coup là l'ia m'a ressorti que c'était contre les pesticides peut-être c'est deux
+The predicted Conversation :ils essayent de voir laquelle sur qui on comprend les fruits sont pour parce que et au contraire des grains aux al
+The target Conversation :peut-être que c'est les plus forts parce que du coup les fruits sont forts parce que
+The predicted Conversation :je sais pas ce que ça vaut mais c'est pour essayer de comprendre peut-être c'est deux séries qui doivent amener à la au même message ils est quoi eux font leur pesticides
+The target Conversation :et ou alors ils sont forts parce que ils ont eu plein de pesticides c'est ce que je disais non bon ils sont
+The predicted Conversation :ou alors c'est le contraire des est voyez les super héros qui viennent salver tous ces fruits et ça fait du bien dans la société mais çà serait donc l'opposé faires - je dirais normalement les beaux ce qu'on pourrait dire que c'est les super héros en
+The target Conversation :si ça représente les je sais pas ou alors c'est le contraire des est ce qu'on peut avoir l'antithèse les beaux c'est les s- mais ça serait pas les super héros en tout cas
+The predicted Conversation :voilà là spiderman donc salut
+The target Conversation :salut alors comment ça va ça va ça vous fait penser
+The predicted Conversation :je ne sais pas c'est une pomme mais 30% de super-héroïques elle a du coup la coupe
+The target Conversation :qui serait pas bio à vous aussi je ne sais pas c'est une pomme un fruit
+The predicted Conversation :c'est une pomme je ne sais pas pourquoi elle est à l'envers
+The target Conversation :j'ai pas entendu je ne sais pas c'est une pomme c'est une pomme à l'envers
+The predicted Conversation :elle ressemble à un super héros je ne sais pas c'est une pomme
+The target Conversation :cette pomme est à l'envers elle ressemble à un super héros à spiderman ah oui
+The predicted Conversation :ah oui on dirait un spiderman cette pomme elle combat peut-être voilà
+The target Conversation :on dirait un spiderman cette pomme c'est vrai et quel message ça voudrait
+The predicted Conversation :c'est peut-être ça elles se sont pris des chocs sur les trajets
+The target Conversation :ben du coup je pense que c'est ça elles ont l'air fatiguées parce que elles ont voyagé
+The predicted Conversation :tu crois que c'est qui qu'aurait who lancerrait cette campagne oui peut-être
+The target Conversation :tu crois que c'est qui qu'aurait elles se sont pris des chocs sur les sur les trajets
+The predicted Conversation :on va peut-être on vas maybe trouver un de ces jours @ oui ça serait
+The target Conversation :le gouvernement je dirais l'état je pense on va peut-être on va peut-être tomber dessus un de ces jours @
+The predicted Conversation :de compliqué c'est vrai que c'est un petit peu pas tout à fait clair du coup je sçai peut-être oui c'est correct
+The target Conversation :ça serait ça serait marrant j'espère qu'ils expliqueront parce que on a mis longtemps à trouver quand même c'est
+The predicted Conversation :c'est vrai que c'est un petit peu compliqué de
+The target Conversation :oui c'est vrai que c'est un petit peu compliqué de de trouver
+The predicted Conversation :oui mais c'est pas la version deadpool là je pense que ça pourrait me faire penser à
+The target Conversation :ben du coup c'est la pomme en spiderman ça pourrait peut-être me faire penser à deadpool sinon non
+The predicted Conversation :c'est un autre personnage de comic oui je sais qu'- si, alors peut-être
+The target Conversation :à quoi deadpool je sais pas c'est un autre personnage de comic ah je m'y connais pas bien
+The predicted Conversation :mais en fait donc il s'agirait de transformer les euh les fruits et légumes
+The target Conversation :non c'est vrai en plus c'est bien et mais en fait donc il s'agirait de transformer les les fruits et légumes
+The predicted Conversation :c'est vrai en plus c'est bien mais en fait donc il s'agirait de transformer les fruits et légumes alors là c'était mon autre idée pour 10
+The target Conversation :en super héros quoi en fait ça transforme les fruits et légumes en super héros pour dire c'est des super héros ils font du bien ça va bien dans le celui qui 5 fruits et légumes par jour
+The predicted Conversation :mais en fait donc il s'agirait de transformer les fruits et légumes quoi ouais mouait je pense aussi but tu me parlais des enfants tout à l'heure et on joue un peu avec la nourriture non du coup
+The target Conversation :ça m'étonnerait pas mouais je pense aussi mais tu me parlais des enfants tout à l'heure et on joue un peu avec la nourriture non du coup on est dans le répertoire
+The predicted Conversation :ok alors on a de nouveau notre aubergine gangster
+The target Conversation :ok alors on a de nouveau notre aubergine gangster aubergine
+The predicted Conversation :mais le carnard de disney tu veux dire donald duck ah oui je suisse
+The target Conversation :de disney ah oui ah tu trouves pas moi ça me fait vrai- non ça me fait vraiment penser à quelqu'un de cagoulé mais ah
+The predicted Conversation :mais euh le carnard de disney tu veux dire donald duck mhm ok bon donc donald duCK
+The target Conversation :tu veux dire donald duck je crois pas que c'est donald duck je sais plus comment il s'appelle ce personnage mais c'est un personnage de dessins animés de disney
+The predicted Conversation :moi ça me fait vrai- non ća m'efface du monde alors je sais pas elle a l'air de donald D à moitié derrière ah oui le carnard de disney tu veux decirdonald duck mais c'est un peu plus crillon then that et
+The target Conversation :tu sais un canard noir comme ça qui parle pas bien alors ça qui parle comme alors je sais pas je sais que celui qu'on parodie souvent sur sa manière de parler c'est donald mais sinon je vois pas du tout de quoi de quel personnage tu parles
+The predicted Conversation :ça c'est picsou le millionnaire non ć
+The target Conversation :non mais donald duck c'est celui qui est millionaire non ah non ça c'est picsou ah le millionaire oh je les connais pas très bien les personnages mais en tout cas je j'ai prêté attention à
+The predicted Conversation :alors cette framboise elle est au fait d'accord
+The target Conversation :pour moi en fait ça pourrait être un message du ministère de l'agriculture plutôt oui
+The predicted Conversation :oui tu as raison c'est une campagne pour des fruits locaux et qui ne comme la poire avait pas peau d'être tout entier elle était un peu en mi-poil
+The target Conversation :si il y a ministère de l'écologie ou de quelque chose comme ça mais pour favoriser les produits locaux c'est une campagne pour des fruits locaux et qui ne ou ou de je sais pas si
+The predicted Conversation :et la poire elle est en fait pour moi parler de l'indice faible que je peux eh
+The target Conversation :comme la poire voilà et comme ça ils sont pas abîmés y ça pollue moins finalement ils sont voilà les produits locaux c'est très bon
+The predicted Conversation :peut-être oui tu as vu les publicists qui sont toujours de la campagne pour des fruits locaux et qui ne comme la poire je crois
+The target Conversation :pourquoi aller manger les produits qui viennent de 8000 kilomètres et qui ont fait un trajet qui sont tout abîmés etcetera je crois pour combattre
+The predicted Conversation :je crois que c'est une campagne de pub qui ne comme la poirejecroise
+The target Conversation :combattre voilà ces produits produits qui viennent de trop loin c'est une campagne de pub ciblant les enfants tu ne penses pas
+The predicted Conversation :alors je te présente donc la pomme avec le même visage mais euh j'ai trouvé je pense pour le
+The target Conversation :mais j'ai trouvé je pense pour le dis moi j'y ai réfléchi je crois que c'est batman
+The predicted Conversation :super héros c'était des heroes au quinzaine enregistrés mangeaient les cartoons je pense que ils avaient un avis
+The target Conversation :d'accord t'as t'avais déjà bien trouvé pour la pomme en la en la re regardant c'était bien spiderman complètement
+The predicted Conversation :moi je regarde pas trop pourcément les euh les dessins animés à la télé mais les films de super héros j'en ai vu quelques uns merci oui c'est vrai donc ça fait du coin avec le film batman voilà
+The target Conversation :je te dis je regardais pas trop forcément les les dessins animés à la télé mais les films de super héros j'en ai vu quelques uns c'est vrai que j'y aurais pas pensé du tout bravo merci
+The predicted Conversation :je te dis je regardais pas trop forcément les euh les dessins animés à la télé mais les films de super héros j'en ai vu quelques uns merci peut-être en même temps l-
+The target Conversation :oui peut-être en même temps l- la pomme peut-être mais batman ça fait partie du personne que d'être un peu
+The predicted Conversation :pourtant je pense que ça peut être un sujet délicat à parler de ce genre de super héros et leur place dans la société mais là c'est pas Pour moi ben Spider- Man mène le
+The target Conversation :un peu rustre c'est vrai c'est vrai alors que c'est vrai que spiderman il est sympa lui par contre donc exactement alors que ba- batman une fois qu'il a enfilé son masque il devient un peu méchant c'est vrai
+The predicted Conversation :alors je suis d'accord c'est une poire jaune elle représente la tomate qui est un fruit trop mauvais pour être considérée comme una poire de qualité
+The target Conversation :salut fuhrat ça m'avait l'air d'être une poire je suis d'accord c'est une poire jaune c-
+The predicted Conversation :je suis d'accord c'est une poire jaune un peu pas très építteme à la hausse les uns sont plus rouge que autres et ceux-là aussi
+The target Conversation :c'est une poire pourrie elle est pourrie c'est le mot oui je crois aussi c'est beaucoup moins rigolo que la préc- précédente session ça me donne pas envie de manger des poires ça
+The predicted Conversation :elle est toute noir comme triste oui je crois aussi non la poire semble triste bien sûr she seems saddenedagged-out or whatever you call it
+The target Conversation :je sais pas ce que t'en penses non je ne crois pas elle avait l'air toute triste la pauvre la poire semble triste oui bien sûr
+The predicted Conversation :c'est une poire pourrie oui je crois aussi non je necrois pas la poire semble triste
+The target Conversation :elle semble malheureuse c'est dommage elle semble fatiguée j'espère qu'on va pas j'espère qu'on va pas montrer ça à des enfants ça va pas leur donner
+The predicted Conversation :je suis d'accord c'est une poire jaune oui mais moi j'ai l'impression qu'elle a pas le coup sur la tête elle semble triste
+The target Conversation :ça va pas leur donner envie oui en effet qu'est ce que t'en penses toi peut-être que quequ'un l'a frappé
+The predicted Conversation :oui et même
+The target Conversation :alors là nous avons une fraise
+The predicted Conversation :oui on dirait qu'elle a des cheveux verts et elle est aussi pâlie que la fraise
+The target Conversation :elle serre les poings elle est oui ah oui
+The predicted Conversation :ça porte la couleur de l'environnement oui tu as raison
+The target Conversation :on dirait qu'elle a des cheveux verts oui tout jaune oui tu as raison
+The predicted Conversation :oui tu as raison eller c'est just un contrôle parfaitement
+The target Conversation :c'est comme une fraise du jardin oui ça se pourrait je ne suis pas sûre et
+The predicted Conversation :oui tu as raison pourqu'elle a des cheveux verts c- ça se peut mais elle est malade tout ce qui va pas avec une fraise
+The target Conversation :c'est une fraise moche oui voilà elle a l'air malade non j'aurais pas dit malade
+The predicted Conversation :moi je crois que c'est une aubergine quoi penses-t sur le personnage de la chasse à l'aéroplane
+The target Conversation :re moi je crois que c'est une aubergine
+The predicted Conversation :elle a l'air plus méchante que la pomme oui je suis d'accord
+The target Conversation :je suis d'accord elle ressemble à batman tu veux elle a l'air plus méchante que la pomme
+The predicted Conversation :elle a l'air forte comme la pomme oui c'est vrai une question je ne sais pas si celle
+The target Conversation :elle a l'air plus méchante que la pomme ah mais parce que parce que batman c'est un c'est un super héros plus sombre par rapport à spiderman elle a l'air forte
+The predicted Conversation :oui tu ne penses pas qu'c'est facile comme la pomme eller como la bombe à bombes
+The target Conversation :pardon elle a l'air forte comme la pomme comme la pomme ah la force oui ah tu ne penses pas
+The predicted Conversation :like a super héros elle est forte et pas trop fruitier comme une pomme je suis d'accord
+The target Conversation :oui en effet les yeux et la bouche ressemblent à ceux d'un super héros j'ai besoin que tu parles plus fort fuhrat sinon je t'entends pas
+The predicted Conversation :c'est toujours un peu déformé mais je pense que l
+The target Conversation :je pense que c'est comme une tortue ninja ces citrons
+The predicted Conversation :c'est ça du coup aussi voilà le même personnage et de plus pas trop beau peut-être
+The target Conversation :des petits enfants donc c'est pour leur plaire ça fait ça pour leur parler plus facilement pour qu'ils aient des références qui est l'idole -fin
+The predicted Conversation :sans les mains qui ça peut-être une pub pour manger plus de fruits
+The target Conversation :et oui bien sûr et on les incite à manger mieux ça peut-être une pub pour manger plus de fruits
+The predicted Conversation :oui bien sûr ça peut-être une pub pour manger plus de fruits et duces
+The target Conversation :et qu'est ce que tu penses des fruits et lé- des fruits et légumes dans cette pub ils sont ils sont trop propres non ils sont trop beaux
+The predicted Conversation :oui peut-êtreje pense que c'est exactement ça je crois moi à la garder en esprit
+The target Conversation :ils sont pas réels oui peut-être
+The predicted Conversation :un peu moins fort que les autres s'enfout-ôt des photos de spiderman oui pour moi cette masque ressemble à Spider Man
+The target Conversation :moi pour moi on est dans une dans une campagne de publicité pour dire aux enfants mangez des fruits vous allez devenir des super héros
+The predicted Conversation :c'est vrai que moi je préfère manger la poire pourrie qu'elle brille mais c'est très oui
+The target Conversation :ok bon ben ça peut ça peut marcher moi j'étais encore en train de réfléchir mais ça c'est c'est moi qui suis un petit peu nul là-dessus
+The predicted Conversation :finalement les enfants ils ont plus l'habit- enduit de la poire
+The target Conversation :c'est vrai que moi je préfère manger la poire pourrie que la pomme qui brille mais c'est très oui c'est très perso comme oui c'est sûr mais je pense que les enfants les enfants non ben les enfants ils préfèrent ils ont plus l'habit- et encore ça dépend ça dépend de comment on les habitue mais en général
+The predicted Conversation :c'est vrai que moi je préfère manger la poire pourrie queue à gauche alors là-dessus ça y a plus de chance avec les enfants ils préfèrent they have plus l'habit- et encore il faut mettre des images féminines aussi en général si on voit pas le salle d'urgence dans cinquième ce jour
+The target Conversation :oui c'est vrai une campagne de pub non mais c'est vrai moi je moi je suis d'accord d'accord je préfère manger un fruit voilà qui est
+The predicted Conversation :en général une campagne de pub ouais moi jevais te dire chez moi en ce moment on cueille les abricots ils sont they are looking a bit rotten but
+The target Conversation :qui est un peu abîmé mais qui est mais qui a l'air meilleur là finalement la pomme elle a l'air un peu trop superficielle trop brillante moi jevais te dire chez moi en ce moment on cueille les abricots ils sont ils ont l'air pourris
+The predicted Conversation :bonjour c'est une framboise elle est un peu pourrie oui je crois aussi comme la poire
+The target Conversation :bonjour c'est une framboise oui si tu proposes pourrie
+The predicted Conversation :peut-être qu'elle est malade oui je crois aussi comme la poire oui ça se pourrait
+The target Conversation :elle est même complètement pourrie elle est comme la poire un peu moins la poire quand même oui ça se pourrait peut-être qu'elle est malade et elle est devenue pourrie oui je crois aussi
+The predicted Conversation :qu'est ce que tu en dis taigi comme la poire oui ça se pourrait
+The target Conversation :c'est une campagne contre le gaspillage qu'est ce que tu en dis j'en dis que c'est je comprends pas trop le message
+The predicted Conversation :comme la poire ça se pourrait peut-être qu'elle est malade et elle est devenue forrie quiest ce que tu en dis je pense pas à cela moi j'ai une idée du message c'est una campagne pour des fruits locaux
+The target Conversation :tu as une idée du message pas du tout c'est une campagne pour des fruits locaux et qui ne viennent pas de loin n'est-ce pas
+The predicted Conversation :oui je crois comme tu disais les fruits de mauvaise qualité ça se pourrait c'est une campagne pour des fruits locaux et qui ne viennent pas de loin n'est-ce pas mais j'ai l'impression que ce sont des producteurs d'agrum
+The target Conversation :ça pourrait être une pub pour des producteurs de fruits non
+The predicted Conversation :salut toi c'est une poire
+The target Conversation :c'est une poire c'est une poire un peu abîmée
+The predicted Conversation :c'est une poire elle a été détruita on l'ait fait pour la campagne des fruits non lo fans voila
+The target Conversation :elle est déformée
+The predicted Conversation :moi aussi elle est traitée avec des pesticides je crois pas non mais c'est une poire à la phrase suivante
+The target Conversation :l'a pas l'air très abîmée elle est traitée avec des pesticides tu ne crois pas
+The predicted Conversation :s'il est traité de manière à la fois naturelle et artificielle tu ne crois pas oui en effet
+The target Conversation :elle pourrait être naturelle oui en effet
+The predicted Conversation :on se fait du coup d'œil que c'est une campagne pour les fruits locaux qui ne viennent pas de loin qu'est ce que tu en dis
+The target Conversation :c'est une campagne pour les fruits locaux qui ne viennent pas de loin qu'est ce que tu en dis
+The predicted Conversation :mmm je sais pas ce que t'as vu là-t-il c'est une pamplemous
+The target Conversation :je sais pas ce que t'as vu moi j'ai vu une aubergine
+The predicted Conversation :donc si c'est un message ça serait une utilisation ou une personnification des fruits
+The target Conversation :on a on a du voir la même chose avec un visage c'est ça découpée on dirait un bonhomme
+The predicted Conversation :oui donc si c'est un message ça serait une utilisation ou une personnification des fruits
+The target Conversation :donc si c'est un message ça serait une utilisation ou une pers- une personnification des fruits j'ai pas entendu ta dernière phrase c'est c'est une personnification ici
+The predicted Conversation :peut-être qu'il y a quelque chose qui veut dire sur le fruit et la peste en regard du fait que ça parle aux enfants
+The target Conversation :je pense oui tu penses que ça veut dire quoi je sais pas ça me fait penser à cette période de l'année halloween où on
+The predicted Conversation :peut-être comme une aubergine qui est un fruit
+The target Conversation :on découpe les citrouilles ah peut-être mais oui c'est du coup rendre
+The predicted Conversation :ils t'ont dit dernier run c'est ça donc voilà je te l'ai déjà said
+The target Conversation :salut allo ah tu m'entends donc c'est bien une framboise oui c'est des pros après réflexion
+The predicted Conversation :ils t'ont dit dernier run c'est ça donc je me rappelle aussi on avait fait ah tu m'entends dû après réflexion j'ai bien entendu oui after
+The target Conversation :donc ça veut dire que là c'est on arrive au bout que je me rappelle aussi on avait fait on avait fait quatre fois quatre fois cinq minutes à peu près plusieurs possibilités à mon avis soit c'est une soit c'est une campagne pour c'est ça
+The predicted Conversation :cinq minutes à peu près de loin ouais c'était pour les quatre espèces et un cinquième qui était en retard parce que je me rappelle aussi on avait fait
+The target Conversation :pour priviliégier les produits les produits qui viennent de proche et à ce moment là les fruits les fruits abîmés ce seraient les fruits qui viennent de d'autre pays
+The predicted Conversation :finalement du coup c'est le message qui vient de la publicité alors quoi ah donc je me rappelle pas avoir vu l
+The target Conversation :soit ce serait un truc pour privilégier les produits voilà les produits moches cette framboise cette framboise elle est elle est abîmée mais si ça se trouve elle est elle est meilleure que la pomme trop brillante trop belle etcetera ah
+The predicted Conversation :ah tu m'entends donc c'est bien une framboise après réflexion j'ai bon oui on a fait cinq minutes à peu près de loin
+The target Conversation :c'est à dire que dans ces cas là c'est le petit me- le petit message qui serait mis à côté de l'image qui donnerait le voilà qui ferait twister dans un sens ou dans l'autre en fait ça mais bon ça parait compliqué quand même parce qu'elle est très abîmée
+The predicted Conversation :alors j'ai vu la tète de l'avort
+The target Conversation :ce que je trouve contradictoire avec l'idée peut-être d'un combat contre les mauvaise habitudes alimentaires
+The predicted Conversation :ouais tu sais te dit pas comment de ce que les gens en mangeront bien je suis à côté des fruits et légumes j'ai l'autorisation d'en donner aux enfants mais elle lié comme ils disent mourir
+The target Conversation :comme beaucoup trop brillants et beaucoup trop rouges attends cette c'est que c'est des fruits qui ont l'air trop propres
+The predicted Conversation :tu as raison je ne sais pas quoi du coup j'ai pensé à spiderman
+The target Conversation :non je pensais avoir par rapport à la pomme inversée tu vois je me je me disais que ça -fin
+The predicted Conversation :tu vois ça ressemble-à superman à ce to spiderman oui mais alors t'as r- t'es vraiment tout comme les deux donc c'est pas évident qu'on y voit des similarités en quelques personnes
+The target Conversation :je en fait je viens de tilter qu'elle ressemble à àsuperman à ce à superman à spiderman spiderman et qu'elle est à l'envers comme si elle était collée au plafond oui
+The predicted Conversation :(about à -fin je dis pas vraiment c'est ce que j'availed me au sujet des super héros mais voilà
+The target Conversation :bien vu mais t'as r- t'as raison ils sont un peu trop propres pour être honnêtes en quelques sortes c'est ça
+The predicted Conversation :avec un masque
+The target Conversation :je sais pas c'était un citron vert
+The predicted Conversation :ah c'est une femme un masque et un sac à dos toupin oui moi je me disais que ça était pour adolescente
+The target Conversation :une quoi aux tortues ninja ah oui je me disais que ça me disait quelque chose aussi voilà voilà ça me fait penser aux tortues ninja
+The predicted Conversation :moi aussi j'ai pensé un peu la tête de loup mais une quoi ah bah le tue-tues lui a les yeux fermés alors peut-être du masque mh oui exactement
+The target Conversation :donc voilà plutôt je sais pas si c'était genre des genre des super héros un truc comme ça du coup le l'aubergine qu'on a vu tout à l'heure ce serait
+The predicted Conversation :du coup le l'aubergine qu'on a vu tout à l'heure ce serait qui ah le méchant des super héros c est
+The target Conversation :quoi moi j'aurais pas dit ça moi ça s'est pas du coup non pour moi ça n'était pas
+The predicted Conversation :je vois un peu la même chose avec le petit masque ah le méchant des super héros oui là renforce sa personnalité
+The target Conversation :ah le méchant des super héros l'aubergine parce qu'elle avait pas l'air très gentil ah oui voilà et ça y a y a un petit aspect cagoulé en fait
+The predicted Conversation :j'ai pas compris ce que tu voulais dire avec le -moi- mais je suis du coup en train de me demander si c'est moi aussi l'-o à la taille des bons pour manger moins d'aller plus vite au quoi ?
+The target Conversation :donc là il s'agissais d'une framboise qui faisait non pas réelle dans laquelle on avait
+The predicted Conversation :bonne surprise ben c'était plus ordi- énoncé sur la voiture d'accord oui du fait que là on estplus dans les super héros avec les beaux fruits et légumes avec les trucs découpés heinlà ce était un coin génial donc cuz à nous
+The target Conversation :voilà une framboise avec des yeux ah oui d'accord oui des pieds des mains mais c'était plus ordi- enfin c'était pas dans la continuité là on est plus dans les super héros avec les beaux fruits et légumes avec les trucs découpés là c'est plutôt d'un dessin
+The predicted Conversation :enfin c'était pas dans la continuité là on est plus dans les super héros avec les beaux fruits et légumes avec les trucs découpés ah donc c'est vu
+The target Conversation :c'est ça en plus on aurait dit donc c'est un dessin tu dis donc c'est pas une vraie c'est pas quelque chose qui aurait été non c'est ça on aurait dit quelque chose voilà plutôt un ordinateur
+The predicted Conversation :mais pas vraiment sympathique c'était plus comme par exemple le poire la pomme qui était un peu différent des autres les trucs découpés donc ça donne une impression d'être en même qu'autre chose
+The target Conversation :mais bon elle avait une drôle d'expression cette framboise comme si elle avait été un peu je sais pas elle semblait contrariée cette framboise mouais elle avait pas l'air c- pas l'air heureuse quoi c'était pas
+The predicted Conversation :mais d'accord elle avait pas l'air ravie quoi c'était pas la joie de vivre but alors dis-tu que peut être sa bonne époque oui she had a bad hair day no
+The target Conversation :c'était pas la joie de vivre mais d'ailleurs elle avait une sale tête en fait par un c'est ça c'est ça on aurait que qu'elle s'était pris ceci dit qu'elle s'était pris un poing dans la figure ok
+The predicted Conversation :ok alors là c'est une pomme avec des yeux en fente donc de l'autre côté
+The target Conversation :oh c'est une pomme à l'envers avec des yeux découpés des yeux des yeux en fente
+The predicted Conversation :des yeux en fente aux pieds ouais déterminée- je suis pas sûr au plus l'aura un peu pomme rouge
+The target Conversation :des yeux un peu comme comme l'aubergine de tout à l'heure déterminée puis qui me font penser à une citrouille d'halloween des yeux en fente
+The predicted Conversation :la comment dire oui peut être je pense
+The target Conversation :la comment dire la corrélation parce que les c'est je sais pas c'est le style de découpage des yeux
+The predicted Conversation :moi ça m'évoque pas forcément je pense qu'à être la tasse du dé à côté de l'image c'est plus clair maintenant oui tu penses que
+The target Conversation :d'accord en triangle comme ça me fait penser à ça ok c'est possible je sais pas du tout moi ça m'évoque pas forcément ça mais pourquoi pas
+The predicted Conversation :c'est vrai parce que je te dis ça peut être une pomme à la crête en forme de taureau pourquoi pas d'accord tu penses qu'cette tomate est un message secret destiné aux seuls experts oui
+The target Conversation :@ tu penses que ça veut dire quoi oula je sais pas y a y a pas assez de choses pour moi pour que j'arrive à y trouver un sens genre c'est juste une pomme à l'envers avec des yeux
+The predicted Conversation :je ne sais pas quoi dire sur les moyens
+The target Conversation :donc du coup c'est une poire un peu bizarre on dirait qu'elle est un peu vieille
+The predicted Conversation :ah oui c'est une poire
+The target Conversation :ah oui genre on dirait qu'on la c'est une poire qu'on la laissé trop longtemps sans la manger
+The predicted Conversation :ah oui c'est une poire je crois donc voici la question pourrie elle est déformée
+The target Conversation :voilà ça donne pas trop envie du de la manger oui c'est une poire pourrie
+The predicted Conversation :pourrie elle est déformée les yeux sont pas de la même taille qu'est-ce que t'en penses moi je pense un peu ça peut être une poire
+The target Conversation :elle est déformée un peu je sais pas trop ce qu'ils ont voulu dire encore une fois les yeux sont pas de la même taille ah ça j'avais pas vu qu'est ce que t'en penses
+The predicted Conversation :de la même couleur mais moins lumineuse elle est pas aussi éclairée comme si je sais mieux pour que c'est vrai une poire qui a du mal à être vendue
+The target Conversation :la poire semble triste ils sont pas trop en forme
+The predicted Conversation :bonjour oui c'est la même chanson
+The target Conversation :bonjour
+The predicted Conversation :bonjour bondi-fonce donc ça peut-être une pub pour montrer que les fruits c'est amusant oui bien sûr
+The target Conversation :c'est une pomme bonjour ça peut-être une pub pour montrer que les fruits c'est amusant
+The predicted Conversation :oui bien sûr
+The target Conversation :y a aussi des légumes oui bien sûr et tout à l'heure aussi c'était des fruits et ils étaient
+The predicted Conversation :tu ne crois pas j'arrête t- je te dis tout ça peut-être une pub pour montrer que les fruits c'est amusant oui bien sûr
+The target Conversation :oui elle a l'air un pomme agressive non pas du tout tu ne crois pas
+The predicted Conversation :oui tu ne crois pas c'est peut-être une pub pour manger plus sainement quoi t'en penses
+The target Conversation :non c'est peut-être une pub pour manger plus sainement oui c'est s- c'est sûr
+The predicted Conversation :alors voilà la salut ça c'est moi qui te l'ai fait
+The target Conversation :alors voyons voir si on s'entend dééjà salut c'est beaucoup mieux je m'appelle furhat
+The predicted Conversation :c'est une pomme que je mange pas elle avait un thème qui était le film dangereux
+The target Conversation :comment ça va ça va ça va plutôt bien et moi je m'appelle julie
+The predicted Conversation :c'est une pomme oui il est maintenant semblable à sa fruiti fait du coup furry comme les autres
+The target Conversation :c'est une pomme c'est une pomme oui une pomme à l'envers oui qui est plutôt taillée aussi pour comme une citrouille d'halloween quoi donc pour ressembler à un visage
+The predicted Conversation :c'est une pomme oui donc cette Pom- est en fait un petit homme avec des yeux et des bras pas de vrai
+The target Conversation :et cette pomme a des grands yeux
+The predicted Conversation :cette pomme a des grands yeux ça peut être un secret d'État mais je pense quoi tu as fait avec la supermarché
+The target Conversation :cette pomme a des grands yeux c'est une pomme avec des grands yeux c'est ça oui effectivement et là aussi je pense que c'est un super héros et
+The predicted Conversation :quoi est ce que vous faites ici ?
+The target Conversation :est ce que t'aurais envie de manger une aubergine si elle ressemblait à ça
+The predicted Conversation :on dirait qu'elle a un air un peu méchant je sais pas c'est une question mais est-ce que ça peut être intéressant de voir des plumes
+The target Conversation :je trouve qu'elle est plutôt effrayante cette aubergine alors si c'est une pub pour manger des légumes je ne sais pas
+The predicted Conversation :avec la pomme c'est ça qui elle combat les mauvaises habitudes alimentaires with the apple
+The target Conversation :oui et si c'est une pub pour manger des légumes moi ça me donne pas trop envie s- si elle a une tête comme ça
+The predicted Conversation :qu'est ce que t'en penses avec la pomme et qui c'est une pyrée
+The target Conversation :cette aubergine ah peut-être qu'elle combat les mauvaises habitudes alimentaires avec la pomme qu'est ce que t'en penses ah d'accord oui c'est
+The predicted Conversation :oui tu as raison c'est exactement ce que je pense
+The target Conversation :ben alors il manque quelque chose il manque du texte pour comprendre oui tu as raison tu as une idée du message comment
+The predicted Conversation :il y a des raisons de sayer que le citron peut être bénéficiaire delà du coup lesgens pourrait lui donner raison je pense qu'il est vrai
+The target Conversation :le citron a vraiment l'air gentil on dirait qu'il est en mouvement peut-être à cause des bandeaux
+The predicted Conversation :un citron brille fort aussi à cause des pesticides
+The target Conversation :le citron brille fort aussi à cause des pesticides tu ne crois pas je trouve qu'il brille moins que les autres dans les cheveux -fin derrière sa tête
+The predicted Conversation :tu as une idée du message bon sûr je ne peux pas m'accord
+The target Conversation :il est en approche quoi mais vraiment dans un souci de bien-être de gentillesse oui c'est possible
+The predicted Conversation :oui c'est vrai et moi je pense qu'il y a des raisons ça brille autant que le citron cela les doses de quelque chose
+The target Conversation :tu as une idée du message le message faire attention aux apparences parfois trompeuses des fruits et des légumes et que
+The predicted Conversation :t'as pas envie de manger un citron oui c'est possible
+The target Conversation :faut les éplucher les laver et poser un peu peut-être pour en manger le oui en effet le bon contenu oui bien sûr
+The predicted Conversation :alors on est à nouveau avec la aubergine moi je crois que c'est une
+The target Conversation :qu'est ce que tu as vu
+The predicted Conversation :je crois qu'il y a un visage ah oui quelqu'un peut-être
+The target Conversation :moi aussi mais elle a quelque chose de spécial ah oui quelqu'un a découpé un visage dans l'aubergine
+The predicted Conversation :oui quelqu'un a découpé un visage dans l
+The target Conversation :à quoi ça te fait penser toi
+The predicted Conversation :elle ressemble aussi à un super héros oui
+The target Conversation :elle ressemble aussi à un super héros tu ne penses pas non pas trop pas pour ça
+The predicted Conversation :oui elle a l'air plus dangereuse que la pomme
+The target Conversation :je trouve qu'elle ressemble aux citrouilles d'halloween je ne sais pas d'accord
+The predicted Conversation :c'est une poire à la fois abîmée et bonjour
+The target Conversation :c'est une poire bonjour
+The predicted Conversation :c'est une poire elle a des tâches brunes ah oui voilà
+The target Conversation :elle a des tâches brunes et son visage fait un peu la tête elle est un peu pourrie cette poire
+The predicted Conversation :ah oui c'est peut-être parce que le légume est souvent considéré comme une nourriture alternative à la viande voilà
+The target Conversation :elle n'a pas l'air contente non elle a l'air fatiguée
+The predicted Conversation :elle a pas l'air contente parce qu'elle vient de loin ah oui la poire a l'ail à faible compte et c'est
+The target Conversation :la poire a l'air malade oui je pense qu'il faut la manger rapidement je pense
+The predicted Conversation :elle a des tâches brunes ah oui ella n'a pas l'air contente je pense parce qu'elle vient de loin voilà la poire à la solange
+The target Conversation :elle est pourrie parce qu'elle vient de loin parce que ça fait trop longtemps qu'elle est à la chaleur oui bien sûr
+The predicted Conversation :c'est la même fraise que tout à l'heure j’ai vu une autrefraize qui ressemblait du coup
+The target Conversation :alors c'est la fraise cette fois ci encore une fois c'est la même fraise que tout à l'heure je suis un peu paumé
+The predicted Conversation :c'est la même fraise que tout à l'heure je suis un peu paumé j'arrive pas mettre les deux ensemble la première c'était vraiment manger des euh parce qu'il est nutritif alors d'ailleurs il serait plus gros
+The target Conversation :des fruits et des légumes parce que c'est nutritifs et c'est peut-être parce que ceux ci on en mange tout le temps j'arrive pas à mettre les deux ensemble la première c'était vraiment manger des
+The predicted Conversation :et sur l'idée qu’il y a deux messages différents oui si on partait sur l‘message du frais
+The target Conversation :et que les autres on en mange pas souvent citron vert aubergine bon pomme quand même si mais les deux autres on en mange pas souvent alors que bon fraise framboise poire
+The predicted Conversation :oui si on partait sur l'idée qu'il y a deux messages différents et je pense que c'est ça parce que c'est sur les fruits pourris ok il faudrait manger des fraises framboise poire bah ou i
+The target Conversation :oui si on partait sur l'idée qu'il y a deux messages différents et on voit après quoi parce que ça c'est sur les fruits pourris c'est quoi c'est qu'il faut pas les manger ou qu'il faut les manger à ton avis
+The predicted Conversation :oui fraise framboisse poire bah ouii si on partait sur l'idée qu que c'est là où les fruits pourris sont cela ce qui peut être vrai il y a des
+The target Conversation :non qu'il faudrait manger des fruits frais plutôt il faudrait manger des fruits frais qu'il faut pas laisser pourrir les fruits je pense que c'est ça c'était mon idée au début mais j'étais vraiment pas sûr
+The predicted Conversation :d'ailleur je pense que c'était l'aubergine qui avait un petit problème avec sa capote
+The target Conversation :ok c'est la même image que tout à l'heure un légume avec un masque
+The predicted Conversation :voilà qui a bouloté à être déguisée comme ça
+The target Conversation :de style batman oui découpe de super héros
+The predicted Conversation :ça, c'est une aubergine on voit un peu la forme de l’aubergue il y en avait pas qui soit très évident à trouver
+The target Conversation :c'est une aubergine oui c'est ça une aubergine quelqu'un a découpé un visage dans l'aubergine
+The predicted Conversation :qui est en couleur etqui a découpé un visage dans l'aubergine tu as une idée du message
+The target Conversation :tu as une idée du message non aucun message c'est juste un objet
+The predicted Conversation :tu as vu un message je ne sais pas du messagé l'aubergine qui avait une
+The target Conversation :comique peut-être anne si je ne suis pas sûre l'incitation à manger des aubergines des légumes
+The predicted Conversation :les deux côtés de la même pub
+The target Conversation :ah et je crois que -fin je sais pas j'ai peut-être une idée où où en fait ça serait les deux côtés
+The predicted Conversation :je sais les deux séries d'images c'est comme ça et voyez là j pense à quoi ah oui c'est une question qui me fait penser aux super héros
+The target Conversation :tu sais les deux séries d'images mais enfin si c'est une pub pour les enfants elle est vachement compliquée à comprendre déjà pour un adulte donc les deux côtés de la de la même pub mais je sais pas encore dans quel sens il faut la
+The predicted Conversation :je crois que c'était un peu ça l'idée quoi on enlève le mot pour voir et après des fois j'ai peut-être une idée où tu saisis ? ou bien after dans quel sens il faut – Je vois
+The target Conversation :donc après si c'est pour un enfant ben après des fois il suffit de rajouter un mot oui
+The predicted Conversation :en fait de la production saine locale voilà c'est un truc
+The target Conversation :donc c'est des trucs un peu ambigus là pour le moment si c'est les deux campagnes sont liées je vois pas du tout le message ok j'avais l'idée je parce que dans les trucs que qu'on avait entendu y avait l'idée
+The predicted Conversation :j'avais l'idée de la production saine locale mais je savaids quoi parce que les gentils ceux qui il faut manger c'est les premiers ok donc et puis des trucs un peu ambigus
+The target Conversation :je me disais d'une part en fait de la production saine locale mais je savais pas encore quel était le bon le côté positif parce que les gentils ceux qu'il faut manger c'est les premiers ou
+The predicted Conversation :salut tu m'entends bon moi je crois que c'est un citron
+The target Conversation :salut fuhrat tu m'entends je t'entends bon
+The predicted Conversation :voilà qui est en train de faire des citron et les je crois quoi c'est pas bonne squelette duci
+The target Conversation :le citron avec une tête de tortue ninja oui tu as raison il ressemble à un ninja c'est pas un petit peu raciste de mettre un citron pour un asiatique moi c'était les tortue ninja je crois que c'est un citron
+The predicted Conversation :oui je pense que tu as tort qu'est ce que t'en penses
+The target Conversation :non je pense que tu as tort question de point de vue qu'est ce que t'en penses
+The predicted Conversation :ah et je pensais aussi à un citron tu as tort qu'est ce que t'en penses non je pense c'est une campagne de pub ciblant les enfants
+The target Conversation :oui non c'est une bonne idée en plus la forme est la forme est bien choisie par rapport à la tête des tortue ninja c'est un bon choix je trouve je pense
+The predicted Conversation :c'est une campagne de pub sur les super héros peut-être ça aide à l
+The target Conversation :on en a déjà discuté et je pense que ça cible aussi les parents hum peut-être je ne suis pas sûr
+The predicted Conversation :c'est l'aubergine de tout à l'heure ça
+The target Conversation :c'est retombé sur l'aubergine c'est l'aubergine de tout à l'heure ça
+The predicted Conversation :bien s- ouais c'est la tête du fait que elle est un peu comme ceux de personnes en train dela sorte qui ne sont pas exactement des femmes
+The target Conversation :ah tu trouves c'est c- avec des yeux en triangle vers le bas on dirait que c'est assez mauvais
+The predicted Conversation :je sais pas t'as raison oui tu trouves
+The target Conversation :c'est c'est possible tu sais je me disais les super héros sur les sur les fruits et légumes c'est peut-être un truc du ministère de la santé
+The predicted Conversation :je pense que ça peut être un truc du ministère de la santé oui c'est possible tu sais moi j'me dis aussi
+The target Conversation :c'est fort possible mais du coup si ils sont méchants je -fin moi je pense que le message c'est plus dans le fait de
+The predicted Conversation :c'est pas que les fruits et légumes sont mauvaises je veux dire ce n’ est présenté comme un super héros
+The target Conversation :manger des fruits et légumes et surtout de manger français entre guillemets quoi de pas manger de fruits et de légumes qui vient de l'importation
+The predicted Conversation :donc là je suis tombé sur la poignée de tomates oui
+The target Conversation :on est retombé encore sur la pomme c'est
+The predicted Conversation :c'est spiderman et peut-être mais les yeux ce sont pas du tout comme ceux des gens qui vendent des fruits et légumes - là en fait elles ont un petit coup de poil à cause la pelle
+The target Conversation :et du coup tu penses quoi toi du fait qu'on utilise les légumes comme super héros c'est ce que tu me disais tout à l'heure
+The predicted Conversation :tout à l'heure je me suis dit que c'est une publicité pour les super héros et ben en fait j'ai pensé ça peut être soit un message où on utilise lessuper héros pour la nourriture oui tu sais pour décaler la nourритüe de son contexte
+The target Conversation :ben en fait je me dis que ça peut être soit un message où on utilise les super héros pour la nourriture soit on ça peut aussi être quelque chose d'artistique tu sais pour décaler la nourriture de son de son contexte et jouer avec en quelque sorte
+The predicted Conversation :oui peut-être mais comment s'y prendre par exemple tu sais pour décaler la nourriture de son euh de ses connotés et jouer avec en quelque sorte
+The target Conversation :ou pour que les enfants en mangent par exemple oui
+The predicted Conversation :ok ben en fait je me dis que ça peut être soit un message où on utilise les super héros pour la nourriture oui c'est vrai
+The target Conversation :tu tu dirais quoi toi sur le sur le du coup l'utilisation que de ce qu'on voudrait pousser à faire aux gens parce que ça ressemble à une campagne de quelque chose
+The predicted Conversation :c'est du coup douce et avec une couleur un peu foncée il est framboise oui c'était pas très jolie
+The target Conversation :alors c'est une framboise qui est très fatiguée quoi
+The predicted Conversation :et avec sa couleur elle est un peu triste cette fois-là c'est sûr en effet et c'était une bonne chose d'être ouais là il y a effectivement quelque choice qui était du bon dans le sens abysseux
+The target Conversation :personnellement j'aurais pas très envie de la manger non après comme elle a des bras et des jambes on a pas trop envie de la manger tout court c'est sûr elle est pas fraiche
+The predicted Conversation :D'accord pour moi aussi parce que c'est un peu une personnification de l'oiseau qui est déjà décrié dans d'autres chanteurs ouais
+The target Conversation :je sais pas trop ça fait penser un peu à la pub de tu sais peut-être banga ou tropico ou non
+The predicted Conversation :alors telle que 1je sais pas trop à quoi me touche vraiment dans cette campagne c'est sûr et c'enquise je l'ai vu quand même elle est très jolie mais
+The target Conversation :$oasis$ oasis peut-être il y a ces fruits comme ça non sauf qu'ils ont l'air ceux qui sont à la ils ont l'air un peu plus frais mais ceux qui sont dans la cascade
+The predicted Conversation :elle est pas très jolie personnellement je sais pas trop oasis peut-être c'est sûr et c'est un peu une certaine @ publicisation ceux qui sont à la cascade ils ont l'air plus en forme sort d'avoir été tranchés
+The target Conversation :oui je l'ai vu cette publicité en même temps ils sont un peu moins déformés dans la @ dans la cascade quand même ils ont pas l'air meilleur -fin en tout ils ont l'air sympa qu'elle a l'air
+The predicted Conversation :cette fraise est déformée comme les deux autres
+The target Conversation :cette fraise est déformée
+The predicted Conversation :alors c'était la même fraise que sur les autres
+The target Conversation :oui la fraise est aussi pourrie oh c'est pas évident moi je la mangerais comme les deux autres
+The predicted Conversation :cette fraise est déformée comme les deux autres lafraise est aussi pourrie oui
+The target Conversation :oui c'est peut-être une campagne pour favoriser les fruits locaux
+The predicted Conversation :c'est peut-être une campagne pour favoriser les fruits ah oui là il y a des gens qui font beaucoup de publicité pour
+The target Conversation :on dirait une pub pour des producteurs de fruits non je trouve pas ça évident
+The predicted Conversation :c'est peut-être une pub pour les producteurs de fruits voiya ouia je sais pas si c'est ce que on dirait un message
+The target Conversation :ah oui c'est pas évident tu as une idée du message non c'est pas super clair
+The predicted Conversation :c'est oui là un robot on a pas vu sa tête ça c'est le robot qui t'avait dit çà et du coup
+The target Conversation :toujours le batman c'est c'est le robot qui t'avait dit ça c'est ça
+The predicted Conversation :et du coup ça nous fait quoi euh ça ressemble à batman ouais ok
+The target Conversation :spiderman tortues ninja ok et à côté y a des fruits pourris qui ont l'air tristes
+The predicted Conversation :ok quoi dans ces cas là ça serait une pour les pesticides pour que les fruits soient plus forris
+The target Conversation :qu'ils peuvent sauver du coup peut-être quoi qu'ils peuvent peut-être sauver dans ces cas là ça serait une pour les pesticides
+The predicted Conversation :c'est vachement bizarre à moins que ce soit monsanto qui finance ça en fait on sait pas whofinances si c'est l'état ou mont santé quoi
+The target Conversation :non c'est bizarre ça serait bizarre tu vois c'est vachement bizarre à moins que ce soit monsanto qui qu'ils financent ça finance c'est ça en fait on sait pas qui finance si c'est l'état ou monsanto ou si c'est destiné aux enfants aux adultes
+The predicted Conversation :peut-être même qu'est-ce que c'est
+The target Conversation :mais c'est vrai que sans les écritures c'est compliqué quoi sans écritures autour c'est compliqué
+The predicted Conversation :alors c'était encore l'auto en plus avec des couleurs
+The target Conversation :alors y a- y avait un truc que je me suis dit c'est enfin comme le fruit est beaucoup trop beau beaucoup trop beau
+The predicted Conversation :si elle m'agrétera peut-être le lenzin à l'heure d'rai mais lorsquon est en pleine forme et que cest une food box au restaurant, les super héros seraient des fruits et légumes
+The target Conversation :ah il disait est ce que c'est pas du u- une campagne pour les fruits locaux tu sais parce que c'est des trucs qui vient de loin qui est traité qui est tout ce que tu veux tu sais en comparaison avec les fruits et les légumes moches ah
+The predicted Conversation :c'est ça que j'étais en train de dire peut-être un peu plus la raison pourquoi on voit des commerces qui vendent du bio produit et comme je vous dirai encore est ce qu'ils sont contre messages
+The target Conversation :mais alors les super héros seraient les locaux et donc ils seraient beaux je fais des rimes non justement y a une ambiguité y a y a un gros contre message j'ai l'impression on peut vraiment le prendre dans les deux sens
+The predicted Conversation :c'est ça que j'étais en train de dire est ce qu'on peut faire pour éviter les contre messages parcequoi je fais des rimes louanges
+The target Conversation :ah c'est ça que j'étais en train de dire est ce que ça pourrait pas est ce que les deux sont pas des contre messages parce qu'en fait l'idée c'est que j- si tu rajoutes un petit truc un petit texte tu dois trouver un le message entier
+The predicted Conversation :mais c'est peut-être le but même de la discusssion tu te rends à ce que je peux dire moi aussi
+The target Conversation :c'est ça mais là avec l'image seule tu peux autant dire quelque chose comme son contraire c'est risqué ben c- c'est peut-être le but même de la discusssion moi je serais plutôt
+The predicted Conversation :moi je crois que c'est une aubergine les yeux et la bouche ressemblent à ceux d'un super héros
+The target Conversation :moi je crois que c'est une aubergine
+The predicted Conversation :moi je crois que c'est une aubergine
+The target Conversation :les yeux et la bouche ressemblent à ceux d'un super héros ben je sais pas
+The predicted Conversation :elle a l'air plus méchante que la pomma
+The target Conversation :non elle ressemble à batman il a pas l'air sympathique elle a l'air plus méchante que la pomme
+The predicted Conversation :elle semble être plus en colère que la
+The target Conversation :oui qu'est ce que t'en penses oui il semble plus agressif que la pomme
+The predicted Conversation :elle a l'air plus méchante que la pomme qu'est ce Que pensez-vous she semble beethoven
+The target Conversation :elle semble être plus en colère que la p- oui bien sûr peut-être qu'elle combat les mauvaises habitudes alimentaires avec la pomme
+The predicted Conversation :tout ce qu'on avait c'était avec la pardon j'étais en train de refaire le point sur ce que onavait dit et si ça marchait bien donc ç would be a nice fresh fruit
+The target Conversation :tout ce qu'on avait c'était avec la pardon j'étais en train de refaire le point sur ce qu'on avait dit et si ça marchait bien
+The predicted Conversation :ben Ben oui tout à coup je pense que on a vu des coups du bol qui dit et peut-être le plumage ça est vraiment dégueul
+The target Conversation :une framboise française ah la framboise putain pas réveillé mais enfin c'est pareil elle française -fin c'est @ ça donne moins envie d'un seul coup donc ça serait une poire française
+The predicted Conversation :mais enfin c'est pareil elle française donc ça donne moins envie d'un seul coup et que faut- il les défendre en achetant des trucs locaux
+The target Conversation :logiquement oui c'est ces produits français qui entre guillemets se sont fait battre par les produits américains et que donc il faut que nous on les défende
+The predicted Conversation :et ça peut-être aller avec les super héros ils sont plein de pesticides et d'hormones et de tout ce qu 'qui ne fait pas du bon mais au moins c'est des produits locaux
+The target Conversation :en achetant local en achetant en achetant des trucs locaux et ça peut peut-être aller aussi avec les super héros ils sont plein de pesticides et d'hormones et de des ogm
+The predicted Conversation :-fin ça reste oui par contre c'est un peu difficile la framboise c'est un petit morceau deframable mais quoi
+The target Conversation :les locaux ils ont moins bonne mine mais au moins par contre ils ont quand même -fin la framboise elle est pas très mangeable ça reste franchement la framboise c'est un peu
+The predicted Conversation :une petite rouge boulot qui est la banane qu'on voit avec un coup d'œil elle semble déterminée comme
+The target Conversation :ah mais du coup si c'est lui si c'est batman et qu'il a un air sévère comme batman finalement
+The predicted Conversation :oui c'est vrai ça qui me semble étrange les yeux pour une baraque de fruits forts et
+The target Conversation :comme la pomme oui mais du coup la pomme elle est beaucoup plus attrayante à manger elle semble déterminée contrairement aux autres
+The predicted Conversation :qui ne sont pas trop mauvais et que l'on peut dire c'est la raison pourquoi je pense qu'elle paraît toujours en rapport avec des questions identiques comme les autres sur le sujet de femme oui bien sûr Dürmenerzü und ein bissy -  ils disent aussi ah ben moi j'ai vu souvent femmes qui étaient très fortes dans leur carrière parce que elles avaient trouvé un bonéquilibre entre leurs vie
+The target Conversation :que celui ci non peut-être que oui bien sûr ça fait un effet d'interaction entre le fait d'être un peu mauvais avec un masque pas sympa et la pomme qu'est plus marrante et qui donne envie de manger
+The predicted Conversation :peut-être elle semble être plus en colère que la pomme mais c'est un sujet à déplorer le fait de manger des produits
+The target Conversation :et qui est plus saine du coup par rapport à la patate voilà peut-être
+The predicted Conversation :bien sûr peut-être je vais moi aussi y a plus de chance d'aller à la tranche si j'ai l'autorisation
+The target Conversation :elle semble être plus en colère que la pomme oui je suis d'accord en même temps c'est batman il est toujours en colère
+The predicted Conversation :alors là c'est une petite fraise salut
+The target Conversation :salut donc toujours la fraise qui a perdu la bataille
+The predicted Conversation :d'autant que ça veut oui
+The target Conversation :qui veut se battre mais qui peut pas se battre parce qu'elle est trop faible elle est fatiguée ah oui
+The predicted Conversation :(elle est fatiguée) et peutêtre avec des couleurs plus vives
+The target Conversation :mais je vois pas bien le message derrière tout ça je ne sais pas
+The predicted Conversation :mais je ne sais pas si c'est une campagne contre les pesticides ou non l
+The target Conversation :bon c'est un peu et si c'était une campagne contre les pesticides contre les pesticides je sais pas
+The predicted Conversation :ah oui elle est fatiguée tu vois des slogans pour l'action contre les pesticides
+The target Conversation :je sais pas en tout cas oui c'est pour manger les fruits et les légumes pour les enfants et mais peut-être les fruits locaux
+The predicted Conversation :c'est la fraise ça peut être énervée oui mais elle est plutôt mignonne avec une petite houpette sur
+The target Conversation :on a une fraise énervée c'est vrai qu'elle a l'air énervée mais elle est plutôt mignonne avec une petite houpette sur la tête
+The predicted Conversation :et ça fait du bien d'avoir une petite company en tout cas c'est sûr elle a pas l'air énervée ouais ella a encore des problèmes à aborder cette question de la mise au point sur le statut de ce personnage
+The target Conversation :-fin moi elle me donne pas envie de la manger non c'est sûr elle a pas l'air très en très bonne état non ça a l'air d'être la dernière de la caisse
+The predicted Conversation :elle a encore des sa légèrement blessée oui c'est possible
+The target Conversation :c'est possible elle a encore des des bras des yeux
+The predicted Conversation :mais c'est possible ouais elle a encore des tu penses que y a un message par rapport aux légumes d'avant du coup
+The target Conversation :mais par contre c'est vrai qu'elle a un regard méchant
+The predicted Conversation :et qui donc elle a pas l'air vraiment bien tu vois par exemple comme c'est un peu méchant je sais Pas tout à fait oui pour les premiers légumes quoi
+The target Conversation :du coup un message par rapport aux légumes d'avant ben parce que tu disais que c'était différent des premiers légumes les légumes étaient frais les fruits sont un peu pourris
+The predicted Conversation :alors tu pourrais peut-être faire un petit bruit de l'image batman qui est pas très éteint elle fait du tort à la image que on voit en face
+The target Conversation :hey allez ah c'est bon c'est reparti oui thierry je suis en direct de l'irm nous observons de belles images de en direct @ ça y est
+The predicted Conversation :ben je sais pas on a vu la même chose c'était une belle aubergine ils ont découpés ça arrive à toutes les fois l'auteur de batman il est domanda
+The target Conversation :oui qu'est ce que tu veux que je te dise de plus ben je sais pas on a vu la même chose c'était une belle aubergine l'aubergine elle était découpé un peu en carré pour faire y avait des yeux et voilà et en direct bon et avant on a vu l'image de batman
+The predicted Conversation :c'est ça on a une grape qui est noire et un fruit parfait
+The target Conversation :ils ont découpés ils ont enlevés la peau et par contre elle est elle est bien belle bien noire bien brillante -fin noire violette brillante
+The predicted Conversation :finalement d'aucun côté c'est vrai que ces images sont bizarres et me font mal à l-à mon échelle lesimages ne m'ont pas fait du tort mais je peux te dire qu'il y a des imprimeries là
+The target Conversation :comme comme un truc comme un fruit parfait là avec sa petite mèche verte au dessus alors ça c'est ce qui fait le moins batman mais c'est ce qui fait le plus aubergine aussi donc voilà
+The predicted Conversation :ça pour y a une oui c'est un truc sur les fruits et les légumes finalement çaaa aurait plus l'achevait la tête
+The target Conversation :ça aurait plus eu la tête donc c'est un truc sur les fruits et les légumes ok -fin les fruits d'accord les légumes y a que des fruits et des légumes
