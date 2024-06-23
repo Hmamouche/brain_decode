@@ -52,7 +52,6 @@ python trainer.py [-h] [--batch_size BATCH_SIZE]
                   [--retrain] [--starting_epoch STARTING_EPOCH]
                   [--save_iters SAVE_ITERS] [--epochs EPOCHS]
                   [--saved_checkpoint SAVED_CHECKPOINT]
-
 Arguments:
   --batch_size BATCH_SIZE
   --model_name {MllmBrainToText,MllmBrainToTextV2}, -m {MllmBrainToText,MllmBrainToTextV2}
@@ -62,7 +61,7 @@ Arguments:
   --starting_epoch      starting epoch in case of retrain is True
   --save_epochs         number of epochs before saving the checkpoint
   --epochs              number of training epochs
-  --saved_checkpoint    name of the checkpoint of the trained model in case of 'retrain' or 'test' is True
+  --saved_checkpoint    filename of the trained model in case of 'retrain' or 'test' is True
 ```
 
 
@@ -73,6 +72,9 @@ Arguments:
 python evaluation.py
 ```
 
+## Download Trained Models
+- Transformer model is available in benchmark_transformers/trained_models
+- To download trained MLLMs: https://drive.google.com/file/d/1eZdgK4B4sdxMT4P4nj_MBxz74V1p_elO/view?usp=drive_link
 
 ## Additional Notes
 * The structure of this repository is in work progress

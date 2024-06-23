@@ -83,6 +83,9 @@ if __name__ == "__main__":
         with open(filename, 'r') as file:
             # Loop through each line in the file
             for line in file:
+                # Skip empty lines
+                if len (line) == 0:
+                    continue
                 # Process each line
                 if 'The predicted Conversation' in line:
                   predictions.append(line.split()[4:])
@@ -126,10 +129,10 @@ if __name__ == "__main__":
 
             if real_count > 0:
               total_count +=  min (pred_count / real_count, 1)
-              
+
 
         total_count = total_count / ( len (full_targs) * 5)
- 
+
 
 
         total_bleu = 0
@@ -138,7 +141,7 @@ if __name__ == "__main__":
         total_jaccard = 0
         nlp_lpips = LPTS()
         smoothie = SmoothingFunction().method1
-        
+
         for pred, targ in zip(full_preds, full_targs):
           bleu_score = sentence_bleu([targ.split()], pred.split(), smoothing_function=smoothie)
           total_bleu += bleu_score
@@ -156,4 +159,3 @@ if __name__ == "__main__":
 
         f.write ("%s ; %s ; %s ; %s ; %s; %s\n"%(filename.split('.txt')[0], final_bleu, final_jaccard*100, final_word_overlap, final_lpips[0].cpu().detach().numpy(), total_count))
     f.close()
-
