@@ -1,5 +1,5 @@
 
-#Some part of this code are inspired from InstructBlip with the following license
+# Some parts of this code are adapted from InstructBlip with the following license:
 """
  Copyright (c) 2022, salesforce.com, inc.
  All rights reserved.
