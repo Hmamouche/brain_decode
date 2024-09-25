@@ -1,6 +1,14 @@
+
+#Some part of this code are inspired from InstructBlip with the following license
+"""
+ Copyright (c) 2022, salesforce.com, inc.
+ All rights reserved.
+ SPDX-License-Identifier: BSD-3-Clause
+ For full license text, see the LICENSE_Lavis file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+"""
+
 import os
 import sys
-# sys.path.append('benchmark_transformers')
 from transformers import AutoTokenizer
 from transformers import AutoModelForCausalLM
 from packaging import version
@@ -35,7 +43,7 @@ class MllmBrainToTextV0(nn.Module):
         max_size = 100
         tokenizer = Tokenizer.from_file("tools/tokenizer-trained.json")
         vocab_len = tokenizer.get_vocab_size()
-        
+
         model_name_or_path = "llm/vicuna-7b-v1.3"
 
         self.device = "cuda"
@@ -278,7 +286,7 @@ class MllmBrainToText(nn.Module):
         max_size = 100
         tokenizer = Tokenizer.from_file("tools/tokenizer-trained.json")
         vocab_len = tokenizer.get_vocab_size()
-        
+
         model_name_or_path = "llm/vicuna-7b-v1.3"
 
         self.device = "cuda"
@@ -538,7 +546,7 @@ class MllmBrainToTextV2(nn.Module):
 
         for param in self.frmi_encoder.parameters():
             param.requires_grad = False
-            
+
         self.llm_tokenizer = AutoTokenizer.from_pretrained(unquantized_model_path, use_fast=True)
         self.llm_model = AutoModelForCausalLM.from_pretrained(model_name_or_path, device_map="cuda:0",
                                                         trust_remote_code=True,
