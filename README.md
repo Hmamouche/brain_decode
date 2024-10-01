@@ -80,4 +80,4 @@ https://drive.google.com/drive/folders/1voveGzNPEGqK-ceXZbMv48uDtmFd23Op
 
 ## Additional Notes
 * The structure of this repository is in work progress
-* Some parts of the code of his project are adapted from InstructBlip (https://github.com/salesforce/LAVIS/blob/main/projects/instructblip/README.md), we thank the authors for their great work.
+* Some parts of the code of this project are adapted from InstructBlip (https://github.com/salesforce/LAVIS/blob/main/projects/instructblip/README.md), we thank the authors for their great work.
