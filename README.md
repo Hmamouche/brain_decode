@@ -1,4 +1,6 @@
-# Implementation code of the paper: A Multimodal LLM for the Non-Invasive Decoding of Spoken Text from Brain Recordings
+A new version of this repository is available at: https://github.com/Yf-Hma/brain_decode
+
+## Implementation code of the paper: A Multimodal LLM for the Non-Invasive Decoding of Spoken Text from Brain Recordings
 
 ![model](figs/MLLM_V2.png)
 ## Requirements
